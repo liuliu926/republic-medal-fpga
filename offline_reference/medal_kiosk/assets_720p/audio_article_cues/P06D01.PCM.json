@@ -1,0 +1,140 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九七三年，南优2号。"
+                     },
+                     {
+                         "time_ticks":  32914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "世界首个实用高产杂交水稻品种问世，亩产大幅跃升。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九七三"
+                     },
+                     {
+                         "time_ticks":  9214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "南"
+                     },
+                     {
+                         "time_ticks":  18814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "优"
+                     },
+                     {
+                         "time_ticks":  20464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "2号"
+                     },
+                     {
+                         "time_ticks":  22414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "2号"
+                     },
+                     {
+                         "time_ticks":  33914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "世界"
+                     },
+                     {
+                         "time_ticks":  38164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "首"
+                     },
+                     {
+                         "time_ticks":  40564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "个"
+                     },
+                     {
+                         "time_ticks":  42714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "实用"
+                     },
+                     {
+                         "time_ticks":  47014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "高产"
+                     },
+                     {
+                         "time_ticks":  51914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "杂交"
+                     },
+                     {
+                         "time_ticks":  56364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "水稻"
+                     },
+                     {
+                         "time_ticks":  61064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "品种"
+                     },
+                     {
+                         "time_ticks":  65664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "问世"
+                     },
+                     {
+                         "time_ticks":  74464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "亩产"
+                     },
+                     {
+                         "time_ticks":  79664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "大"
+                     },
+                     {
+                         "time_ticks":  81814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "幅"
+                     },
+                     {
+                         "time_ticks":  83664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "跃升"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

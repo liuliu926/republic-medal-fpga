@@ -1,0 +1,116 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一门四院士。"
+                     },
+                     {
+                         "time_ticks":  19514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "言传身教培养大批医学人才，成就“一门四院士”佳话。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一"
+                     },
+                     {
+                         "time_ticks":  2964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "门"
+                     },
+                     {
+                         "time_ticks":  4864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "四"
+                     },
+                     {
+                         "time_ticks":  7064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "院士"
+                     },
+                     {
+                         "time_ticks":  20514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "言传身教"
+                     },
+                     {
+                         "time_ticks":  30064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "培养"
+                     },
+                     {
+                         "time_ticks":  35114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "大批"
+                     },
+                     {
+                         "time_ticks":  39964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "医学"
+                     },
+                     {
+                         "time_ticks":  43814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "人才"
+                     },
+                     {
+                         "time_ticks":  53364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成就"
+                     },
+                     {
+                         "time_ticks":  58464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一"
+                     },
+                     {
+                         "time_ticks":  60314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "门"
+                     },
+                     {
+                         "time_ticks":  62914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "四"
+                     },
+                     {
+                         "time_ticks":  65114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "院士"
+                     },
+                     {
+                         "time_ticks":  69664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "佳话"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

@@ -1,0 +1,116 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "传承精神。"
+                     },
+                     {
+                         "time_ticks":  19114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "离休后积极投身国防教育，把战斗精神传给青年一代。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "传承"
+                     },
+                     {
+                         "time_ticks":  6114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "精神"
+                     },
+                     {
+                         "time_ticks":  20114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "离休"
+                     },
+                     {
+                         "time_ticks":  24414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "后"
+                     },
+                     {
+                         "time_ticks":  27314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "积极"
+                     },
+                     {
+                         "time_ticks":  31014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "投身"
+                     },
+                     {
+                         "time_ticks":  36214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国防"
+                     },
+                     {
+                         "time_ticks":  40414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "教育"
+                     },
+                     {
+                         "time_ticks":  49014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "把"
+                     },
+                     {
+                         "time_ticks":  51614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战斗"
+                     },
+                     {
+                         "time_ticks":  55814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "精神"
+                     },
+                     {
+                         "time_ticks":  61014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "传"
+                     },
+                     {
+                         "time_ticks":  63914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "给"
+                     },
+                     {
+                         "time_ticks":  66264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "青年"
+                     },
+                     {
+                         "time_ticks":  70864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一代"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

@@ -1,0 +1,21 @@
+{
+  "sample_rate": 16000,
+  "total_samples": 138000,
+  "segments": [
+    {
+      "speech": "一九六七年，",
+      "subtitle": "1967",
+      "start_sample": 0
+    },
+    {
+      "speech": "于敏参与我国第一颗氢弹试验，",
+      "subtitle": "参与我国第一颗氢弹试验",
+      "start_sample": 33600
+    },
+    {
+      "speech": "理论方案获得验证。",
+      "subtitle": "理论方案获得验证",
+      "start_sample": 97120
+    }
+  ]
+}

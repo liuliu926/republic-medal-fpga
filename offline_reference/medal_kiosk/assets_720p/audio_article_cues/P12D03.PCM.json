@@ -1,0 +1,134 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零零六年，最高科技奖。"
+                     },
+                     {
+                         "time_ticks":  34964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获国家最高科学技术奖，成为小麦育种领域代表科学家。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零零六"
+                     },
+                     {
+                         "time_ticks":  8814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "最高"
+                     },
+                     {
+                         "time_ticks":  20464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "科技"
+                     },
+                     {
+                         "time_ticks":  24314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "奖"
+                     },
+                     {
+                         "time_ticks":  35964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获"
+                     },
+                     {
+                         "time_ticks":  38214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国家"
+                     },
+                     {
+                         "time_ticks":  42714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "最高"
+                     },
+                     {
+                         "time_ticks":  47014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "科学"
+                     },
+                     {
+                         "time_ticks":  51914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "技术"
+                     },
+                     {
+                         "time_ticks":  56014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "奖"
+                     },
+                     {
+                         "time_ticks":  63264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成为"
+                     },
+                     {
+                         "time_ticks":  67414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "小麦"
+                     },
+                     {
+                         "time_ticks":  72264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "育种"
+                     },
+                     {
+                         "time_ticks":  76664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "领域"
+                     },
+                     {
+                         "time_ticks":  80414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "代表"
+                     },
+                     {
+                         "time_ticks":  84914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "科学"
+                     },
+                     {
+                         "time_ticks":  89314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "家"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

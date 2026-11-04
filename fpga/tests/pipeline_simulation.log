@@ -1,0 +1,2 @@
+PASS SETTINGS_PIPELINE checks=3807973 pixels=950432 audio_samples=6239 cycles=950435
+C:\Users\20251\Documents\ChatGPT\FPGA\output\submission_code_20261104\FPGA_Medal_Final_Source_20261104\fpga\tests\tb_settings_pipeline.sv:106: $finish called at 18531020000 (1ps)

@@ -1,0 +1,146 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "引领超级稻。"
+                     },
+                     {
+                         "time_ticks":  20564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动三系、两系到超级稻研究，我国杂交水稻始终居世界领先。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "引领"
+                     },
+                     {
+                         "time_ticks":  6064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "超级"
+                     },
+                     {
+                         "time_ticks":  10464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "稻"
+                     },
+                     {
+                         "time_ticks":  21564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动"
+                     },
+                     {
+                         "time_ticks":  25814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "三"
+                     },
+                     {
+                         "time_ticks":  28264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "系"
+                     },
+                     {
+                         "time_ticks":  35064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "两"
+                     },
+                     {
+                         "time_ticks":  37714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "系"
+                     },
+                     {
+                         "time_ticks":  39414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "到"
+                     },
+                     {
+                         "time_ticks":  41664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "超级"
+                     },
+                     {
+                         "time_ticks":  46214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "稻"
+                     },
+                     {
+                         "time_ticks":  48064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "研究"
+                     },
+                     {
+                         "time_ticks":  57364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "我"
+                     },
+                     {
+                         "time_ticks":  59214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国"
+                     },
+                     {
+                         "time_ticks":  61814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "杂交"
+                     },
+                     {
+                         "time_ticks":  66364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "水稻"
+                     },
+                     {
+                         "time_ticks":  71064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "始终"
+                     },
+                     {
+                         "time_ticks":  76314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "居"
+                     },
+                     {
+                         "time_ticks":  78664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "世界"
+                     },
+                     {
+                         "time_ticks":  82814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "领先"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

@@ -1,0 +1,110 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "科研育人。"
+                     },
+                     {
+                         "time_ticks":  17514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "长期从事慢阻肺等研究，培养大批呼吸医学人才。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "科研"
+                     },
+                     {
+                         "time_ticks":  5014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "育人"
+                     },
+                     {
+                         "time_ticks":  18514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "长期"
+                     },
+                     {
+                         "time_ticks":  22964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "从事"
+                     },
+                     {
+                         "time_ticks":  28114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "慢"
+                     },
+                     {
+                         "time_ticks":  30464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "阻"
+                     },
+                     {
+                         "time_ticks":  32264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "肺"
+                     },
+                     {
+                         "time_ticks":  34364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "等"
+                     },
+                     {
+                         "time_ticks":  36664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "研究"
+                     },
+                     {
+                         "time_ticks":  46064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "培养"
+                     },
+                     {
+                         "time_ticks":  50914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "大批"
+                     },
+                     {
+                         "time_ticks":  55714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "呼吸"
+                     },
+                     {
+                         "time_ticks":  60664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "医学"
+                     },
+                     {
+                         "time_ticks":  64514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "人才"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "英勇指挥。"
+                     },
+                     {
+                         "time_ticks":  17764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在兵力火力处于劣势时沉着指挥，以极小代价完成防御任务。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "英勇"
+                     },
+                     {
+                         "time_ticks":  5314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "指挥"
+                     },
+                     {
+                         "time_ticks":  18764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在"
+                     },
+                     {
+                         "time_ticks":  21714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "兵力"
+                     },
+                     {
+                         "time_ticks":  25514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "火力"
+                     },
+                     {
+                         "time_ticks":  29964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "处于"
+                     },
+                     {
+                         "time_ticks":  34664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "劣势"
+                     },
+                     {
+                         "time_ticks":  38314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "时"
+                     },
+                     {
+                         "time_ticks":  41314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "沉着"
+                     },
+                     {
+                         "time_ticks":  45764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "指挥"
+                     },
+                     {
+                         "time_ticks":  54814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "以"
+                     },
+                     {
+                         "time_ticks":  57464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "极小"
+                     },
+                     {
+                         "time_ticks":  61714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "代价"
+                     },
+                     {
+                         "time_ticks":  65964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "完成"
+                     },
+                     {
+                         "time_ticks":  71214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "防御"
+                     },
+                     {
+                         "time_ticks":  75164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "任务"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

@@ -1,0 +1,104 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "放弃专利。"
+                     },
+                     {
+                         "time_ticks":  17264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "主动放弃药物专利，让廉价救命药惠及全球患者。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "放弃"
+                     },
+                     {
+                         "time_ticks":  5264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "专利"
+                     },
+                     {
+                         "time_ticks":  18264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "主动"
+                     },
+                     {
+                         "time_ticks":  22814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "放弃"
+                     },
+                     {
+                         "time_ticks":  27664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "药物"
+                     },
+                     {
+                         "time_ticks":  31364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "专利"
+                     },
+                     {
+                         "time_ticks":  39864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "让"
+                     },
+                     {
+                         "time_ticks":  42264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "廉价"
+                     },
+                     {
+                         "time_ticks":  47164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "救命"
+                     },
+                     {
+                         "time_ticks":  51164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "药"
+                     },
+                     {
+                         "time_ticks":  53564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "惠及"
+                     },
+                     {
+                         "time_ticks":  58414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "全球"
+                     },
+                     {
+                         "time_ticks":  63414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "患者"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

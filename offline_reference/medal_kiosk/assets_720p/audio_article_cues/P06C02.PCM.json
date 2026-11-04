@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "大幅提高产量。"
+                     },
+                     {
+                         "time_ticks":  22364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "杂交水稻大面积推广，累计增产粮食数以亿吨计。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "大"
+                     },
+                     {
+                         "time_ticks":  3114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "幅"
+                     },
+                     {
+                         "time_ticks":  5764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "提高"
+                     },
+                     {
+                         "time_ticks":  9664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "产量"
+                     },
+                     {
+                         "time_ticks":  23364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "杂交"
+                     },
+                     {
+                         "time_ticks":  28064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "水稻"
+                     },
+                     {
+                         "time_ticks":  32714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "大"
+                     },
+                     {
+                         "time_ticks":  34914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "面积"
+                     },
+                     {
+                         "time_ticks":  39414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推广"
+                     },
+                     {
+                         "time_ticks":  49064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "累计"
+                     },
+                     {
+                         "time_ticks":  53164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "增产"
+                     },
+                     {
+                         "time_ticks":  58264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "粮食"
+                     },
+                     {
+                         "time_ticks":  63364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "数"
+                     },
+                     {
+                         "time_ticks":  65714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "以"
+                     },
+                     {
+                         "time_ticks":  67964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "亿吨"
+                     },
+                     {
+                         "time_ticks":  71914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "计"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

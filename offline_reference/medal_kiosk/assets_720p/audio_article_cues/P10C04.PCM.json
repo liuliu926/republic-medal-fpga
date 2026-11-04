@@ -1,0 +1,104 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "空间站奠基。"
+                     },
+                     {
+                         "time_ticks":  20864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动交会对接与空间实验室工程，为空间站建设奠基。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "空间站"
+                     },
+                     {
+                         "time_ticks":  8014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "奠基"
+                     },
+                     {
+                         "time_ticks":  21864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动"
+                     },
+                     {
+                         "time_ticks":  26814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "交会"
+                     },
+                     {
+                         "time_ticks":  31064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "对接"
+                     },
+                     {
+                         "time_ticks":  35364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "与"
+                     },
+                     {
+                         "time_ticks":  37364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "空间"
+                     },
+                     {
+                         "time_ticks":  42314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "实验室"
+                     },
+                     {
+                         "time_ticks":  48514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "工程"
+                     },
+                     {
+                         "time_ticks":  57814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "为"
+                     },
+                     {
+                         "time_ticks":  60664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "空间站"
+                     },
+                     {
+                         "time_ticks":  67914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "建设"
+                     },
+                     {
+                         "time_ticks":  72114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "奠基"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

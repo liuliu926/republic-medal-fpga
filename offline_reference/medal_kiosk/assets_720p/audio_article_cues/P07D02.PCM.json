@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九七零年，长征一号。"
+                     },
+                     {
+                         "time_ticks":  33214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "我国第一艘核潜艇下水，中国跻身核潜艇国家行列。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九七零"
+                     },
+                     {
+                         "time_ticks":  9014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "长征"
+                     },
+                     {
+                         "time_ticks":  21064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一"
+                     },
+                     {
+                         "time_ticks":  22714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "号"
+                     },
+                     {
+                         "time_ticks":  34214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "我"
+                     },
+                     {
+                         "time_ticks":  36064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国"
+                     },
+                     {
+                         "time_ticks":  38814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "第一"
+                     },
+                     {
+                         "time_ticks":  42114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "艘"
+                     },
+                     {
+                         "time_ticks":  44764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "核潜艇"
+                     },
+                     {
+                         "time_ticks":  52414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "下水"
+                     },
+                     {
+                         "time_ticks":  62164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中国"
+                     },
+                     {
+                         "time_ticks":  66764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "跻身"
+                     },
+                     {
+                         "time_ticks":  71364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "核潜艇"
+                     },
+                     {
+                         "time_ticks":  79114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国家"
+                     },
+                     {
+                         "time_ticks":  83064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "行列"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

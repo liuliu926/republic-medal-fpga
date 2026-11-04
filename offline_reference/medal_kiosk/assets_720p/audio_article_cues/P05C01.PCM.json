@@ -1,0 +1,128 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "屡立战功。"
+                     },
+                     {
+                         "time_ticks":  17664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "解放战争中两次获“战斗英雄”荣誉称号，多次荣立军功。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "屡"
+                     },
+                     {
+                         "time_ticks":  3214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "立"
+                     },
+                     {
+                         "time_ticks":  4914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战功"
+                     },
+                     {
+                         "time_ticks":  18664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "解放"
+                     },
+                     {
+                         "time_ticks":  23064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战争"
+                     },
+                     {
+                         "time_ticks":  27164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中"
+                     },
+                     {
+                         "time_ticks":  29864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "两"
+                     },
+                     {
+                         "time_ticks":  32164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "次"
+                     },
+                     {
+                         "time_ticks":  34114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获"
+                     },
+                     {
+                         "time_ticks":  36814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战斗"
+                     },
+                     {
+                         "time_ticks":  40964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "英雄"
+                     },
+                     {
+                         "time_ticks":  46064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "荣誉"
+                     },
+                     {
+                         "time_ticks":  49864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "称号"
+                     },
+                     {
+                         "time_ticks":  59364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "多"
+                     },
+                     {
+                         "time_ticks":  61314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "次"
+                     },
+                     {
+                         "time_ticks":  64164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "荣立"
+                     },
+                     {
+                         "time_ticks":  68114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "军功"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

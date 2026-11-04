@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "新冠预警。"
+                     },
+                     {
+                         "time_ticks":  18464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "2020 年率先提出病毒“人传人”，为国家决策提供关键依据。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "新"
+                     },
+                     {
+                         "time_ticks":  3964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "冠"
+                     },
+                     {
+                         "time_ticks":  6014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "预警"
+                     },
+                     {
+                         "time_ticks":  19464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "2020"
+                     },
+                     {
+                         "time_ticks":  27114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  30164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "率先"
+                     },
+                     {
+                         "time_ticks":  34864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "提出"
+                     },
+                     {
+                         "time_ticks":  39314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "病毒"
+                     },
+                     {
+                         "time_ticks":  43214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "人"
+                     },
+                     {
+                         "time_ticks":  45314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "传人"
+                     },
+                     {
+                         "time_ticks":  55014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "为"
+                     },
+                     {
+                         "time_ticks":  57914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国家"
+                     },
+                     {
+                         "time_ticks":  62114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "决策"
+                     },
+                     {
+                         "time_ticks":  66864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "提供"
+                     },
+                     {
+                         "time_ticks":  71564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "关键"
+                     },
+                     {
+                         "time_ticks":  75764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "依据"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

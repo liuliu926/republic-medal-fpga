@@ -1,0 +1,110 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零二四年，国家礼遇。"
+                     },
+                     {
+                         "time_ticks":  32264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获授共和国勋章，代表参战将士接受国家致敬。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零二四"
+                     },
+                     {
+                         "time_ticks":  9014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国家"
+                     },
+                     {
+                         "time_ticks":  20614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "礼遇"
+                     },
+                     {
+                         "time_ticks":  33264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获"
+                     },
+                     {
+                         "time_ticks":  35564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "授"
+                     },
+                     {
+                         "time_ticks":  38314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "共和国"
+                     },
+                     {
+                         "time_ticks":  44414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "勋章"
+                     },
+                     {
+                         "time_ticks":  53814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "代表"
+                     },
+                     {
+                         "time_ticks":  58414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "参战"
+                     },
+                     {
+                         "time_ticks":  63064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "将士"
+                     },
+                     {
+                         "time_ticks":  67864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "接受"
+                     },
+                     {
+                         "time_ticks":  72464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国家"
+                     },
+                     {
+                         "time_ticks":  76514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "致敬"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

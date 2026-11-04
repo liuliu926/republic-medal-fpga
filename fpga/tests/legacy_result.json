@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "scope": "Actual settings_percent_control/audio_volume_percent/brightness_popup_720p RTL. Control key pulses, boundaries/persistence; 1529 signed audio vectors; 2816 RGB triplets; continuous fill heights; actual centred digit pixels and bilingual labels. No hardware operations.",
+  "compile_returncode": 0,
+  "fresh_vvp": true,
+  "compiler_shutdown_av": false,
+  "simulation_returncode": 0,
+  "assertions": 9747,
+  "navigation_check": "Actual top-level static wiring: popup gates all four navigation inputs only while brightness_open; closed-controller pulses do not change retained values. Full system runtime navigation remains a hardware regression item.",
+  "preview": "settings_percent_rtl_preview.png",
+  "source_sha256": "dc8758904e0d79412a1d786ed19a680e9a5fe149c2a1c73dc11312b5ad6b8a06",
+  "elapsed_seconds": 8.99
+}

@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "诱导分化。"
+                     },
+                     {
+                         "time_ticks":  17864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "开创“让癌细胞改邪归正”的治疗思路，首创全反式维甲酸疗法。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "诱导"
+                     },
+                     {
+                         "time_ticks":  5514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "分化"
+                     },
+                     {
+                         "time_ticks":  18864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "开创"
+                     },
+                     {
+                         "time_ticks":  24264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "让"
+                     },
+                     {
+                         "time_ticks":  26414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "癌细胞"
+                     },
+                     {
+                         "time_ticks":  32814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "改邪归正"
+                     },
+                     {
+                         "time_ticks":  41814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  43864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "治疗"
+                     },
+                     {
+                         "time_ticks":  48214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "思路"
+                     },
+                     {
+                         "time_ticks":  56714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "首创"
+                     },
+                     {
+                         "time_ticks":  62164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "全"
+                     },
+                     {
+                         "time_ticks":  64864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "反"
+                     },
+                     {
+                         "time_ticks":  67114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "式"
+                     },
+                     {
+                         "time_ticks":  68964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "维"
+                     },
+                     {
+                         "time_ticks":  71514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "甲酸"
+                     },
+                     {
+                         "time_ticks":  76314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "疗法"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

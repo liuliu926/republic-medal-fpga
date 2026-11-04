@@ -1,0 +1,134 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零二零年，最后的身影。"
+                     },
+                     {
+                         "time_ticks":  34014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "九十高龄仍坚守西沟，把一生献给了土地与人民。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零二零"
+                     },
+                     {
+                         "time_ticks":  8664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "最后"
+                     },
+                     {
+                         "time_ticks":  20114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  21214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "身影"
+                     },
+                     {
+                         "time_ticks":  35014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "九十"
+                     },
+                     {
+                         "time_ticks":  39314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "高龄"
+                     },
+                     {
+                         "time_ticks":  44014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "仍"
+                     },
+                     {
+                         "time_ticks":  46614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "坚守"
+                     },
+                     {
+                         "time_ticks":  50814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "西"
+                     },
+                     {
+                         "time_ticks":  52964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "沟"
+                     },
+                     {
+                         "time_ticks":  59714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "把"
+                     },
+                     {
+                         "time_ticks":  61664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一生"
+                     },
+                     {
+                         "time_ticks":  66214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "献给"
+                     },
+                     {
+                         "time_ticks":  70564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "了"
+                     },
+                     {
+                         "time_ticks":  71864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "土地"
+                     },
+                     {
+                         "time_ticks":  76264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "与"
+                     },
+                     {
+                         "time_ticks":  78314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "人民"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

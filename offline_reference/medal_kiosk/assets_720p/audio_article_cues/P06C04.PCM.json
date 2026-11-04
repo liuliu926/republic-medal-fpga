@@ -1,0 +1,140 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "惠及世界。"
+                     },
+                     {
+                         "time_ticks":  17564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "杂交水稻技术在数十个国家推广，为解决全球粮食问题作出贡献。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "惠及"
+                     },
+                     {
+                         "time_ticks":  5264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "世界"
+                     },
+                     {
+                         "time_ticks":  18564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "杂交"
+                     },
+                     {
+                         "time_ticks":  24014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "水稻"
+                     },
+                     {
+                         "time_ticks":  28264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "技术"
+                     },
+                     {
+                         "time_ticks":  32664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在"
+                     },
+                     {
+                         "time_ticks":  34914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "数"
+                     },
+                     {
+                         "time_ticks":  37764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "十"
+                     },
+                     {
+                         "time_ticks":  40164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "个"
+                     },
+                     {
+                         "time_ticks":  41814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国家"
+                     },
+                     {
+                         "time_ticks":  45714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推广"
+                     },
+                     {
+                         "time_ticks":  55114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "为"
+                     },
+                     {
+                         "time_ticks":  57364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "解决"
+                     },
+                     {
+                         "time_ticks":  61964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "全球"
+                     },
+                     {
+                         "time_ticks":  67614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "粮食"
+                     },
+                     {
+                         "time_ticks":  71764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "问题"
+                     },
+                     {
+                         "time_ticks":  76364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "作"
+                     },
+                     {
+                         "time_ticks":  78364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "出"
+                     },
+                     {
+                         "time_ticks":  80414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "贡献"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

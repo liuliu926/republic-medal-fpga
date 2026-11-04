@@ -1,0 +1,146 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "突破氢弹原理。"
+                     },
+                     {
+                         "time_ticks":  22964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "提出从原理到构形的完整设想，解决氢弹自持热核燃烧的关键问题。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "突破"
+                     },
+                     {
+                         "time_ticks":  5664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "氢弹"
+                     },
+                     {
+                         "time_ticks":  10364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "原理"
+                     },
+                     {
+                         "time_ticks":  23964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "提出"
+                     },
+                     {
+                         "time_ticks":  28614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "从"
+                     },
+                     {
+                         "time_ticks":  31364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "原理"
+                     },
+                     {
+                         "time_ticks":  35764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "到"
+                     },
+                     {
+                         "time_ticks":  37914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "构"
+                     },
+                     {
+                         "time_ticks":  39564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "形"
+                     },
+                     {
+                         "time_ticks":  41664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  43764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "完整"
+                     },
+                     {
+                         "time_ticks":  48014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "设想"
+                     },
+                     {
+                         "time_ticks":  57514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "解决"
+                     },
+                     {
+                         "time_ticks":  61664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "氢弹"
+                     },
+                     {
+                         "time_ticks":  66664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "自持"
+                     },
+                     {
+                         "time_ticks":  70314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "热核"
+                     },
+                     {
+                         "time_ticks":  74964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "燃烧"
+                     },
+                     {
+                         "time_ticks":  79614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  81464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "关键"
+                     },
+                     {
+                         "time_ticks":  85914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "问题"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

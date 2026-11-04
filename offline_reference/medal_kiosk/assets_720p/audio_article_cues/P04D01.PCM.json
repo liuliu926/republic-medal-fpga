@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九五一年，346.6 高地。"
+                     },
+                     {
+                         "time_ticks":  41764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "面对敌军轮番冲锋，指挥部队顽强坚守，阵地始终未失。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九五一"
+                     },
+                     {
+                         "time_ticks":  8164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  15514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "346.6"
+                     },
+                     {
+                         "time_ticks":  30014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "高地"
+                     },
+                     {
+                         "time_ticks":  42764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "面对"
+                     },
+                     {
+                         "time_ticks":  46864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "敌军"
+                     },
+                     {
+                         "time_ticks":  51264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "轮番"
+                     },
+                     {
+                         "time_ticks":  55414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "冲锋"
+                     },
+                     {
+                         "time_ticks":  64864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "指挥"
+                     },
+                     {
+                         "time_ticks":  68864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "部队"
+                     },
+                     {
+                         "time_ticks":  72814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "顽强"
+                     },
+                     {
+                         "time_ticks":  77714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "坚守"
+                     },
+                     {
+                         "time_ticks":  86864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "阵地"
+                     },
+                     {
+                         "time_ticks":  91214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "始终"
+                     },
+                     {
+                         "time_ticks":  95764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "未"
+                     },
+                     {
+                         "time_ticks":  97614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "失"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

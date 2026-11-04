@@ -1,0 +1,104 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动国际化。"
+                     },
+                     {
+                         "time_ticks":  19914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动中医药走向世界，获国际社会高度认可。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动"
+                     },
+                     {
+                         "time_ticks":  5864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国际"
+                     },
+                     {
+                         "time_ticks":  9664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "化"
+                     },
+                     {
+                         "time_ticks":  20914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动"
+                     },
+                     {
+                         "time_ticks":  25214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中医药"
+                     },
+                     {
+                         "time_ticks":  31014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "走"
+                     },
+                     {
+                         "time_ticks":  33314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "向"
+                     },
+                     {
+                         "time_ticks":  35564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "世界"
+                     },
+                     {
+                         "time_ticks":  44414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获"
+                     },
+                     {
+                         "time_ticks":  47264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国际"
+                     },
+                     {
+                         "time_ticks":  51114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "社会"
+                     },
+                     {
+                         "time_ticks":  55764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "高度"
+                     },
+                     {
+                         "time_ticks":  59464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "认可"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

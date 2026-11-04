@@ -1,0 +1,90 @@
+{
+  "sample_rate": 16000,
+  "approximate": true,
+  "cues": [
+    {
+      "character": "1",
+      "start_sample": 0
+    },
+    {
+      "character": "9",
+      "start_sample": 8560
+    },
+    {
+      "character": "2",
+      "start_sample": 17120
+    },
+    {
+      "character": "6",
+      "start_sample": 25680
+    },
+    {
+      "character": "生",
+      "start_sample": 34240
+    },
+    {
+      "character": "于",
+      "start_sample": 40788
+    },
+    {
+      "character": "天",
+      "start_sample": 47337
+    },
+    {
+      "character": "津",
+      "start_sample": 53885
+    },
+    {
+      "character": "宁",
+      "start_sample": 60434
+    },
+    {
+      "character": "河",
+      "start_sample": 66982
+    },
+    {
+      "character": "，",
+      "start_sample": 73531
+    },
+    {
+      "character": "少",
+      "start_sample": 80080
+    },
+    {
+      "character": "年",
+      "start_sample": 87800
+    },
+    {
+      "character": "时",
+      "start_sample": 95520
+    },
+    {
+      "character": "代",
+      "start_sample": 103240
+    },
+    {
+      "character": "立",
+      "start_sample": 110960
+    },
+    {
+      "character": "志",
+      "start_sample": 116920
+    },
+    {
+      "character": "科",
+      "start_sample": 122880
+    },
+    {
+      "character": "学",
+      "start_sample": 128840
+    },
+    {
+      "character": "报",
+      "start_sample": 134800
+    },
+    {
+      "character": "国",
+      "start_sample": 140760
+    }
+  ]
+}

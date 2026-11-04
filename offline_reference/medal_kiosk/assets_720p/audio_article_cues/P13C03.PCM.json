@@ -1,0 +1,110 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "传承基因。"
+                     },
+                     {
+                         "time_ticks":  18164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "离休后关心国防教育，把红色故事讲给青年一代。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "传承"
+                     },
+                     {
+                         "time_ticks":  6114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "基因"
+                     },
+                     {
+                         "time_ticks":  19164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "离休"
+                     },
+                     {
+                         "time_ticks":  23464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "后"
+                     },
+                     {
+                         "time_ticks":  26264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "关心"
+                     },
+                     {
+                         "time_ticks":  31814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国防"
+                     },
+                     {
+                         "time_ticks":  36014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "教育"
+                     },
+                     {
+                         "time_ticks":  44614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "把"
+                     },
+                     {
+                         "time_ticks":  47164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "红色"
+                     },
+                     {
+                         "time_ticks":  51964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "故事"
+                     },
+                     {
+                         "time_ticks":  56364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "讲"
+                     },
+                     {
+                         "time_ticks":  58864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "给"
+                     },
+                     {
+                         "time_ticks":  61214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "青年"
+                     },
+                     {
+                         "time_ticks":  65764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一代"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

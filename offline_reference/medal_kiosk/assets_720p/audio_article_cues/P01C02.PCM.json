@@ -1,0 +1,128 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "填补理论空白。"
+                     },
+                     {
+                         "time_ticks":  23064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "建立我国核武器物理研究体系，完成大量基础性计算与论证。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "填补"
+                     },
+                     {
+                         "time_ticks":  5614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "理论"
+                     },
+                     {
+                         "time_ticks":  9514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "空白"
+                     },
+                     {
+                         "time_ticks":  24064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "建立"
+                     },
+                     {
+                         "time_ticks":  28714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "我"
+                     },
+                     {
+                         "time_ticks":  30714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国"
+                     },
+                     {
+                         "time_ticks":  33314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "核武器"
+                     },
+                     {
+                         "time_ticks":  40164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "物理"
+                     },
+                     {
+                         "time_ticks":  43564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "研究"
+                     },
+                     {
+                         "time_ticks":  47714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "体系"
+                     },
+                     {
+                         "time_ticks":  56614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "完成"
+                     },
+                     {
+                         "time_ticks":  61864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "大量"
+                     },
+                     {
+                         "time_ticks":  66714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "基础"
+                     },
+                     {
+                         "time_ticks":  70514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "性"
+                     },
+                     {
+                         "time_ticks":  73414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "计算"
+                     },
+                     {
+                         "time_ticks":  78264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "与"
+                     },
+                     {
+                         "time_ticks":  80264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "论证"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

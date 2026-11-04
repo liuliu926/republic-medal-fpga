@@ -1,0 +1,25 @@
+可移植构建入口
+
+放置位置：build.py放提交包根目录，build.tcl放fpga目录。
+目录应包含fpga/source、fpga/rtl、fpga/user_source和fpga/run/medal_kiosk_720p.prj。
+工程必须使用包内相对路径；SD/sdram.v的global_def.v包含路径应已在提交副本修正。
+保留medal_font.vh、3个article*.hex、4个IPC及各自生成的Verilog/Tcl、4个加密Verilog文件。
+
+工具环境：Windows、Python 3.10或更新版本、Tang Dynasty 6.2.168116工程版及EG4器件库。
+TD工具查找顺序：--td参数、TD_HOME环境变量、原验收安装目录、PATH中的td_commands_prompt.exe。
+--td和TD_HOME可填写TD安装目录、bin目录或命令工具完整路径。
+
+仅检查工程展开（不执行综合/布局布线/位流生成）：
+  python build.py --check-only
+  python build.py --check-only --td "C:/Anlogic/TD_6.2.1_Engineer_6.2.168.116"
+
+完整构建：
+  python build.py --td "C:/Anlogic/TD_6.2.1_Engineer_6.2.168.116/bin/td_commands_prompt.exe"
+
+检查输出在fpga/check_run，完整构建输出在fpga/build_run；不会覆盖fpga/run中的原项目或认可位流。
+入口将相对工程文件及3个HEX复制到独立工作目录；源文件与冻结历史报告不改。
+完整构建采用顶层top、EG4S20BG256、high pack和place seed 9，与冻结配置相同。
+console.log和result.json记录结果。完整构建输出medal_opening_integrated.bit、资源及时序报告。
+“构建完成”只表示工具流程完成；最终冻结版本原时序报告含负裕量，不能写为时序全闭合。
+重新构建的位流哈希及资源数字可能受工具版本与构建条件影响；认可位流以发布清单为准。
+本入口没有烧录、擦写、配置Flash或访问TF卡的命令。

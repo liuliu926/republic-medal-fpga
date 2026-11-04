@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "培育新品种。"
+                     },
+                     {
+                         "time_ticks":  21164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "培育“小偃”系列抗病高产优质品种，累计推广数亿亩。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "培育"
+                     },
+                     {
+                         "time_ticks":  5714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "新"
+                     },
+                     {
+                         "time_ticks":  8364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "品种"
+                     },
+                     {
+                         "time_ticks":  22164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "培育"
+                     },
+                     {
+                         "time_ticks":  26964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "小"
+                     },
+                     {
+                         "time_ticks":  29564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "偃"
+                     },
+                     {
+                         "time_ticks":  32164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "系列"
+                     },
+                     {
+                         "time_ticks":  36314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "抗病"
+                     },
+                     {
+                         "time_ticks":  41214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "高产"
+                     },
+                     {
+                         "time_ticks":  46264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "优质"
+                     },
+                     {
+                         "time_ticks":  49864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "品种"
+                     },
+                     {
+                         "time_ticks":  59264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "累计"
+                     },
+                     {
+                         "time_ticks":  63814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推广"
+                     },
+                     {
+                         "time_ticks":  69114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "数"
+                     },
+                     {
+                         "time_ticks":  71464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "亿"
+                     },
+                     {
+                         "time_ticks":  73014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "亩"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

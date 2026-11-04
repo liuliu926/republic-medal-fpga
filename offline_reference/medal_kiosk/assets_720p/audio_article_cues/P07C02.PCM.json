@@ -1,0 +1,110 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战略重器。"
+                     },
+                     {
+                         "time_ticks":  17714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动战略导弹核潜艇研制，构建我国海基核力量。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战略"
+                     },
+                     {
+                         "time_ticks":  5064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "重"
+                     },
+                     {
+                         "time_ticks":  7364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "器"
+                     },
+                     {
+                         "time_ticks":  18714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动"
+                     },
+                     {
+                         "time_ticks":  23564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战略"
+                     },
+                     {
+                         "time_ticks":  27414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "导弹"
+                     },
+                     {
+                         "time_ticks":  31764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "核潜艇"
+                     },
+                     {
+                         "time_ticks":  38914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "研制"
+                     },
+                     {
+                         "time_ticks":  47564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "构建"
+                     },
+                     {
+                         "time_ticks":  52014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "我"
+                     },
+                     {
+                         "time_ticks":  53964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国"
+                     },
+                     {
+                         "time_ticks":  55914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "海"
+                     },
+                     {
+                         "time_ticks":  58264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "基"
+                     },
+                     {
+                         "time_ticks":  59864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "核力量"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

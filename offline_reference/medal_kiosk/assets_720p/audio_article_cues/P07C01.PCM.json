@@ -1,0 +1,110 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "从无到有。"
+                     },
+                     {
+                         "time_ticks":  17864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "主持研制我国第一代攻击型核潜艇，实现零的突破。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "从无到有"
+                     },
+                     {
+                         "time_ticks":  18864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "主持"
+                     },
+                     {
+                         "time_ticks":  22664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "研制"
+                     },
+                     {
+                         "time_ticks":  27214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "我"
+                     },
+                     {
+                         "time_ticks":  29164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国"
+                     },
+                     {
+                         "time_ticks":  31814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "第一"
+                     },
+                     {
+                         "time_ticks":  35364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "代"
+                     },
+                     {
+                         "time_ticks":  37614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "攻击"
+                     },
+                     {
+                         "time_ticks":  41564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "型"
+                     },
+                     {
+                         "time_ticks":  44514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "核潜艇"
+                     },
+                     {
+                         "time_ticks":  56564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "实现"
+                     },
+                     {
+                         "time_ticks":  61714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "零"
+                     },
+                     {
+                         "time_ticks":  64064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  65214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "突破"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

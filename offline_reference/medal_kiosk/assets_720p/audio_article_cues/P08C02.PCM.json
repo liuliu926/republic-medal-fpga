@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "攻克疟疾。"
+                     },
+                     {
+                         "time_ticks":  17314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "开创疟疾治疗新方法，青蒿素类药物挽救数百万人生命。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "攻克"
+                     },
+                     {
+                         "time_ticks":  5164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "疟疾"
+                     },
+                     {
+                         "time_ticks":  18314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "开创"
+                     },
+                     {
+                         "time_ticks":  22914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "疟疾"
+                     },
+                     {
+                         "time_ticks":  27614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "治疗"
+                     },
+                     {
+                         "time_ticks":  32364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "新"
+                     },
+                     {
+                         "time_ticks":  35164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "方法"
+                     },
+                     {
+                         "time_ticks":  43964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "青蒿"
+                     },
+                     {
+                         "time_ticks":  49114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "素"
+                     },
+                     {
+                         "time_ticks":  51464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "类"
+                     },
+                     {
+                         "time_ticks":  53164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "药物"
+                     },
+                     {
+                         "time_ticks":  57314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "挽救"
+                     },
+                     {
+                         "time_ticks":  62264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "数"
+                     },
+                     {
+                         "time_ticks":  64764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "百万"
+                     },
+                     {
+                         "time_ticks":  68664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "人"
+                     },
+                     {
+                         "time_ticks":  70564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "生命"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

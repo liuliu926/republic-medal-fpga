@@ -1,0 +1,134 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "领航探月工程。"
+                     },
+                     {
+                         "time_ticks":  24014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "担任探月工程首任总设计师，推动“嫦娥”系列实现重大突破。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "领航"
+                     },
+                     {
+                         "time_ticks":  6814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "探"
+                     },
+                     {
+                         "time_ticks":  9214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "月"
+                     },
+                     {
+                         "time_ticks":  11014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "工程"
+                     },
+                     {
+                         "time_ticks":  25014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "担任"
+                     },
+                     {
+                         "time_ticks":  29614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "探"
+                     },
+                     {
+                         "time_ticks":  32014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "月"
+                     },
+                     {
+                         "time_ticks":  33814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "工程"
+                     },
+                     {
+                         "time_ticks":  38714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "首任"
+                     },
+                     {
+                         "time_ticks":  43664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "总"
+                     },
+                     {
+                         "time_ticks":  45914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "设计"
+                     },
+                     {
+                         "time_ticks":  49814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "师"
+                     },
+                     {
+                         "time_ticks":  57014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动"
+                     },
+                     {
+                         "time_ticks":  61564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "嫦娥"
+                     },
+                     {
+                         "time_ticks":  66014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "系列"
+                     },
+                     {
+                         "time_ticks":  70214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "实现"
+                     },
+                     {
+                         "time_ticks":  75564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "重大"
+                     },
+                     {
+                         "time_ticks":  79514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "突破"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

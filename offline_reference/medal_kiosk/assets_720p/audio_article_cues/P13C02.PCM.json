@@ -1,0 +1,116 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "金城鏖战。"
+                     },
+                     {
+                         "time_ticks":  17914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "金城战役中带领全班坚守阵地，获“二级战斗英雄”称号。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "金城"
+                     },
+                     {
+                         "time_ticks":  5514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "鏖战"
+                     },
+                     {
+                         "time_ticks":  18914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "金城"
+                     },
+                     {
+                         "time_ticks":  23714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战役"
+                     },
+                     {
+                         "time_ticks":  27414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中"
+                     },
+                     {
+                         "time_ticks":  30214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "带领"
+                     },
+                     {
+                         "time_ticks":  34314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "全班"
+                     },
+                     {
+                         "time_ticks":  39464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "坚守"
+                     },
+                     {
+                         "time_ticks":  43764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "阵地"
+                     },
+                     {
+                         "time_ticks":  52214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获"
+                     },
+                     {
+                         "time_ticks":  55114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二"
+                     },
+                     {
+                         "time_ticks":  57364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "级"
+                     },
+                     {
+                         "time_ticks":  59764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战斗"
+                     },
+                     {
+                         "time_ticks":  64014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "英雄"
+                     },
+                     {
+                         "time_ticks":  69214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "称号"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

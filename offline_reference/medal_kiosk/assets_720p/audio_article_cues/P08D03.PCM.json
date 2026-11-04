@@ -1,0 +1,158 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零一五年，诺奖加冕。"
+                     },
+                     {
+                         "time_ticks":  32514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获诺贝尔生理学或医学奖，成为首位获科学类诺奖的中国本土科学家。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零一五"
+                     },
+                     {
+                         "time_ticks":  8214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  15664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "诺奖"
+                     },
+                     {
+                         "time_ticks":  20014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "加冕"
+                     },
+                     {
+                         "time_ticks":  33514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获"
+                     },
+                     {
+                         "time_ticks":  36364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "诺贝尔"
+                     },
+                     {
+                         "time_ticks":  42814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "生理"
+                     },
+                     {
+                         "time_ticks":  46714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "学"
+                     },
+                     {
+                         "time_ticks":  49964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "或"
+                     },
+                     {
+                         "time_ticks":  52264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "医学"
+                     },
+                     {
+                         "time_ticks":  56114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "奖"
+                     },
+                     {
+                         "time_ticks":  63264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成为"
+                     },
+                     {
+                         "time_ticks":  67364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "首位"
+                     },
+                     {
+                         "time_ticks":  72114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获"
+                     },
+                     {
+                         "time_ticks":  74964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "科学"
+                     },
+                     {
+                         "time_ticks":  79164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "类"
+                     },
+                     {
+                         "time_ticks":  81514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "诺奖"
+                     },
+                     {
+                         "time_ticks":  85714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  87814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中国"
+                     },
+                     {
+                         "time_ticks":  91864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "本土"
+                     },
+                     {
+                         "time_ticks":  96214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "科学"
+                     },
+                     {
+                         "time_ticks":  100614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "家"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

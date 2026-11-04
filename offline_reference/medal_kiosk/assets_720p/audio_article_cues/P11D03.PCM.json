@@ -1,0 +1,128 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零一零年，最高科技奖。"
+                     },
+                     {
+                         "time_ticks":  34714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获国家最高科学技术奖，并把奖金全部捐出。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零一零"
+                     },
+                     {
+                         "time_ticks":  8514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  15964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "最高"
+                     },
+                     {
+                         "time_ticks":  20214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "科技"
+                     },
+                     {
+                         "time_ticks":  24014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "奖"
+                     },
+                     {
+                         "time_ticks":  35714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获"
+                     },
+                     {
+                         "time_ticks":  38014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国家"
+                     },
+                     {
+                         "time_ticks":  42464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "最高"
+                     },
+                     {
+                         "time_ticks":  46814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "科学"
+                     },
+                     {
+                         "time_ticks":  51664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "技术"
+                     },
+                     {
+                         "time_ticks":  55814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "奖"
+                     },
+                     {
+                         "time_ticks":  63064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "并"
+                     },
+                     {
+                         "time_ticks":  65364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "把"
+                     },
+                     {
+                         "time_ticks":  67914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "奖金"
+                     },
+                     {
+                         "time_ticks":  73214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "全部"
+                     },
+                     {
+                         "time_ticks":  77664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "捐"
+                     },
+                     {
+                         "time_ticks":  79914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "出"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

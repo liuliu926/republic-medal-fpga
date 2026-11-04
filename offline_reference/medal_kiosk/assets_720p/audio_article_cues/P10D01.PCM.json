@@ -1,0 +1,128 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九九二年，三步走。"
+                     },
+                     {
+                         "time_ticks":  31314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "以严谨论证确立载人航天发展路线，成为中国航天蓝图。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九九二"
+                     },
+                     {
+                         "time_ticks":  9064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "三"
+                     },
+                     {
+                         "time_ticks":  19364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "步"
+                     },
+                     {
+                         "time_ticks":  20864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "走"
+                     },
+                     {
+                         "time_ticks":  32314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "以"
+                     },
+                     {
+                         "time_ticks":  34314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "严谨"
+                     },
+                     {
+                         "time_ticks":  39514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "论证"
+                     },
+                     {
+                         "time_ticks":  43614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "确立"
+                     },
+                     {
+                         "time_ticks":  48014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "载人"
+                     },
+                     {
+                         "time_ticks":  52264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "航天"
+                     },
+                     {
+                         "time_ticks":  57664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "发展"
+                     },
+                     {
+                         "time_ticks":  61764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "路线"
+                     },
+                     {
+                         "time_ticks":  70714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成为"
+                     },
+                     {
+                         "time_ticks":  75564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中国"
+                     },
+                     {
+                         "time_ticks":  80414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "航天"
+                     },
+                     {
+                         "time_ticks":  85264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "蓝图"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

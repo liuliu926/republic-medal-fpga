@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九五五年，主动请缨。"
+                     },
+                     {
+                         "time_ticks":  32314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "转业时放弃城市，要求到最艰苦的来凤山区工作。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九五五"
+                     },
+                     {
+                         "time_ticks":  8214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  15664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "主动"
+                     },
+                     {
+                         "time_ticks":  19564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "请缨"
+                     },
+                     {
+                         "time_ticks":  33314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "转业"
+                     },
+                     {
+                         "time_ticks":  37314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "时"
+                     },
+                     {
+                         "time_ticks":  40464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "放弃"
+                     },
+                     {
+                         "time_ticks":  44714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "城市"
+                     },
+                     {
+                         "time_ticks":  53914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "要求"
+                     },
+                     {
+                         "time_ticks":  58314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "到"
+                     },
+                     {
+                         "time_ticks":  60164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "最"
+                     },
+                     {
+                         "time_ticks":  62114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "艰苦"
+                     },
+                     {
+                         "time_ticks":  66264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  68314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "来凤"
+                     },
+                     {
+                         "time_ticks":  72364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "山区"
+                     },
+                     {
+                         "time_ticks":  76764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "工作"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "开创远缘杂交。"
+                     },
+                     {
+                         "time_ticks":  24064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "开创小麦与偃麦草远缘杂交新领域，丰富小麦育种理论。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "开创"
+                     },
+                     {
+                         "time_ticks":  6414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "远缘"
+                     },
+                     {
+                         "time_ticks":  10964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "杂交"
+                     },
+                     {
+                         "time_ticks":  25064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "开创"
+                     },
+                     {
+                         "time_ticks":  29664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "小麦"
+                     },
+                     {
+                         "time_ticks":  34614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "与"
+                     },
+                     {
+                         "time_ticks":  36564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "偃"
+                     },
+                     {
+                         "time_ticks":  38264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "麦草"
+                     },
+                     {
+                         "time_ticks":  43314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "远缘"
+                     },
+                     {
+                         "time_ticks":  48464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "杂交"
+                     },
+                     {
+                         "time_ticks":  53314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "新"
+                     },
+                     {
+                         "time_ticks":  55914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "领域"
+                     },
+                     {
+                         "time_ticks":  64464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "丰富"
+                     },
+                     {
+                         "time_ticks":  68764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "小麦"
+                     },
+                     {
+                         "time_ticks":  73714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "育种"
+                     },
+                     {
+                         "time_ticks":  77614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "理论"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

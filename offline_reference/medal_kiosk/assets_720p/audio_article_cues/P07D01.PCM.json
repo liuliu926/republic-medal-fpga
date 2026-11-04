@@ -1,0 +1,110 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九五八年，隐姓埋名。"
+                     },
+                     {
+                         "time_ticks":  33064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "告别家人投身绝密工程，三十年未能与亲人相见。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九五八"
+                     },
+                     {
+                         "time_ticks":  8464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  15814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "隐姓埋名"
+                     },
+                     {
+                         "time_ticks":  34064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "告别"
+                     },
+                     {
+                         "time_ticks":  38514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "家人"
+                     },
+                     {
+                         "time_ticks":  43164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "投身"
+                     },
+                     {
+                         "time_ticks":  48464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "绝密"
+                     },
+                     {
+                         "time_ticks":  52464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "工程"
+                     },
+                     {
+                         "time_ticks":  61764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "三十"
+                     },
+                     {
+                         "time_ticks":  66064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  68914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "未能"
+                     },
+                     {
+                         "time_ticks":  73614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "与"
+                     },
+                     {
+                         "time_ticks":  75664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "亲人"
+                     },
+                     {
+                         "time_ticks":  80214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "相见"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

@@ -1,0 +1,134 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "见证民主进程。"
+                     },
+                     {
+                         "time_ticks":  22714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "连续当选十三届全国人大代表，参与并见证新中国民主法治建设。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "见证"
+                     },
+                     {
+                         "time_ticks":  5814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "民主"
+                     },
+                     {
+                         "time_ticks":  9814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "进程"
+                     },
+                     {
+                         "time_ticks":  23714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "连续"
+                     },
+                     {
+                         "time_ticks":  28364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "当选"
+                     },
+                     {
+                         "time_ticks":  33514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "十三"
+                     },
+                     {
+                         "time_ticks":  38214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "届"
+                     },
+                     {
+                         "time_ticks":  40564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "全国"
+                     },
+                     {
+                         "time_ticks":  45864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "人大"
+                     },
+                     {
+                         "time_ticks":  49864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "代表"
+                     },
+                     {
+                         "time_ticks":  58664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "参与"
+                     },
+                     {
+                         "time_ticks":  63564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "并"
+                     },
+                     {
+                         "time_ticks":  65964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "见证"
+                     },
+                     {
+                         "time_ticks":  70514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "新"
+                     },
+                     {
+                         "time_ticks":  73314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中国"
+                     },
+                     {
+                         "time_ticks":  77814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "民主"
+                     },
+                     {
+                         "time_ticks":  82514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "法治"
+                     },
+                     {
+                         "time_ticks":  86714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "建设"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

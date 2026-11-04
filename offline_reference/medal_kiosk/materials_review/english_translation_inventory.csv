@@ -1,0 +1,396 @@
+﻿id,Chinese,English translation,slide_text_indices,review_status
+T001,共和国勋章,Medal of the Republic,001:00,draft
+T002,于敏,Yumin,001:01;002:00;003:06,draft
+T003,2019 · 1926—2019,2019 · 1926–2019,001:02,draft
+T004,申纪兰,Shen Jilan,001:03;006:01;007:07,draft
+T005,2019 · 1929—2020,2019 · 1929–2020,001:04,draft
+T006,孙家栋,Sun Jiadong,001:05;010:00;011:06,draft
+T007,2019 · 1929—,2019 · 1929–,001:06,draft
+T008,李延年,Li Yannian,001:07;014:00;015:06,draft
+T009,2019 · 1928—,2019 · 1928–,001:08,draft
+T010,张富清,Zhang Fuqing,001:09;018:00;019:06,draft
+T011,2019 · 1924—,2019 · 1924–,001:10,draft
+T012,袁隆平,Yuan Longping,001:11;022:00;023:06,draft
+T013,2019 · 1930—2021,2019 · 1930–2021,001:12,draft
+T014,黄旭华,Huang Xuhua,001:13;026:00;027:06,draft
+T015,2019 · 1926—,2019 · 1926–,001:14,draft
+T016,屠呦呦,Tu Youyou,001:15;030:00;031:06,draft
+T017,2019 · 1930—,2019 · 1930–,001:16,draft
+T018,钟南山,Zhong Nanshan,001:17;034:00;035:06,draft
+T019,2020 · 1936—,2020 · 1936–,001:18,draft
+T020,王永志,Wang Yongzhi,001:19;038:00;039:06,draft
+T021,2024 · 1932—2024,2024 · 1932–2024,001:20,draft
+T022,王振义,Wang Zhenyi,001:21;042:00;043:06,draft
+T023,2024 · 1924—,2024 · 1924–,001:22,draft
+T024,李振声,Li Zhensheng,001:23;046:00;047:06,draft
+T025,2024 · 1931—,2024 · 1931–,001:24;001:26,draft
+T026,黄宗德,Huang Zongde,001:25;050:00;051:06,draft
+T027,1926—2019,1926–2019,002:01;003:07,draft
+T028,核物理学家 · “中国氢弹之父”,Nuclear physicist · “Father of China's hydrogen bomb”,002:02,draft
+T029,隐姓埋名二十八载，以理论之光照亮中国氢弹之路。,Twenty-eight years in secrecy; his theories illuminated China's path to the hydrogen bomb.,002:03,draft
+T030,01,01,002:04;004:06;006:05;008:07;010:04;012:06;014:04;016:06;018:04;020:06;022:04;024:06;026:04;028:06;030:04;032:06;034:04;036:06;038:04;040:06;042:04;044:06;046:04;048:06;050:04;052:06,draft
+T031,生平,Biography,002:05;003:02;004:02;005:02;006:06;007:02;008:02;009:02;010:05;011:02;012:02;013:02;014:05;015:02;016:02;017:02;018:05;019:02;020:02;021:02;022:05;023:02;024:02;025:02;026:05;027:02;028:02;029:02;030:05;031:02;032:02;033:02;034:05;035:02;036:02;037:02;038:05;039:02;040:02;041:02;042:05;043:02;044:02;045:02;046:05;047:02;048:02;049:02;050:05;051:02;052:02;053:02,draft
+T032,02,02,002:06;004:09;006:00;006:07;007:06;008:06;008:10;009:06;010:06;012:09;014:06;016:09;018:06;020:09;022:06;024:09;026:06;028:09;030:06;032:09;034:06;036:09;038:06;040:09;042:06;044:09;046:06;048:09;050:06;052:09,draft
+T033,主要贡献,Major Contributions,002:07;003:03;004:03;005:03;006:08;007:03;008:03;009:03;010:07;011:03;012:03;013:03;014:07;015:03;016:03;017:03;018:07;019:03;020:03;021:03;022:07;023:03;024:03;025:03;026:07;027:03;028:03;029:03;030:07;031:03;032:03;033:03;034:07;035:03;036:03;037:03;038:07;039:03;040:03;041:03;042:07;043:03;044:03;045:03;046:07;047:03;048:03;049:03;050:07;051:03;052:03;053:03,draft
+T034,03,03,002:08;004:12;006:09;008:13;010:08;012:12;014:08;016:12;018:08;020:12;022:08;024:12;026:08;028:12;030:08;032:12;034:08;036:12;038:08;040:12;042:08;044:12;046:08;048:12;050:08;052:12,draft
+T035,代表事迹,Notable Stories,002:09;003:04;004:04;005:04;006:10;007:04;008:04;009:04;010:09;011:04;012:04;013:04;014:09;015:04;016:04;017:04;018:09;019:04;020:04;021:04;022:09;023:04;024:04;025:04;026:09;027:04;028:04;029:04;030:09;031:04;032:04;033:04;034:09;035:04;036:04;037:04;038:09;039:04;040:04;041:04;042:09;043:04;044:04;045:04;046:09;047:04;048:04;049:04;050:09;051:04;052:04;053:04,draft
+T036,04,04,002:10;004:15;006:11;008:16;010:10;012:15;014:10;016:15;018:10;020:15;022:10;024:15;026:10;028:15;030:10;032:15;034:10;036:15;038:10;040:15;042:10;044:15;046:10;048:15;050:10;052:15,draft
+T037,互动问答,Interactive Quiz,002:11;003:05;004:05;005:05;006:12;007:05;008:05;009:05;010:11;011:05;012:05;013:05;014:11;015:05;016:05;017:05;018:11;019:05;020:05;021:05;022:11;023:05;024:05;025:05;026:11;027:05;028:05;029:05;030:11;031:05;032:05;033:05;034:11;035:05;036:05;037:05;038:11;039:05;040:05;041:05;042:11;043:05;044:05;045:05;046:11;047:05;048:05;049:05;050:11;051:05;052:05;053:05,draft
+T038,共和国勋章 · 人物志,Medal of the Republic · Profiles,003:00;004:00;005:00;007:00;008:00;009:00;011:00;012:00;013:00;015:00;016:00;017:00;019:00;020:00;021:00;023:00;024:00;025:00;027:00;028:00;029:00;031:00;032:00;033:00;035:00;036:00;037:00;039:00;040:00;041:00;043:00;044:00;045:00;047:00;048:00;049:00;051:00;052:00;053:00,draft
+T039,于敏 | 生平,Yumin | Biography,003:01,draft
+T040,氢弹理论,H-bomb theory,003:08,draft
+T041,1926,1926,003:09;027:09,draft
+T042,生于天津宁河，少年时代立志科学报国,"Born in Ninghe, Tianjin; dedicated himself to serving China through science from a young age.",003:10,draft
+T043,1949,1949,003:11,draft
+T044,毕业于北京大学物理系，留校从事原子核理论研究,Graduated from Peking University's Department of Physics and stayed to study nuclear theory.,003:12,draft
+T045,1961,1961,003:13;005:06,draft
+T046,奉命转向氢弹理论预研，从此隐姓埋名,Assigned to preliminary hydrogen-bomb theory research; he then worked under a veil of secrecy.,003:14,draft
+T047,1967,1967,003:15;005:12,draft
+T048,参与我国第一颗氢弹试验，理论方案获得验证,"Participated in China's first hydrogen-bomb test, validating the theoretical design.",003:16,draft
+T049,于敏 | 主要贡献,Yumin | Major Contributions,004:01,draft
+T050,突破氢弹原理,Breakthrough in hydrogen-bomb theory,004:07,draft
+T051,提出从原理到构形的完整设想，解决氢弹自持热核燃烧的关键问题。,"Developed a complete concept from principle to configuration, solving a key challenge in sustained thermonuclear burn.",004:08,draft
+T052,填补理论空白,Filled a theoretical gap,004:10,draft
+T053,建立我国核武器物理研究体系，完成大量基础性计算与论证。,Established China's nuclear-weapons physics research framework through extensive calculations and analysis.,004:11,draft
+T054,引领技术路线,Set the technical course,004:13,draft
+T055,长期主持核武器理论研究，为多次试验成功提供核心支撑。,"Led nuclear-weapons theory research for years, providing core support for multiple successful tests.",004:14,draft
+T056,培育科研队伍,Built a research team,004:16,draft
+T057,带出一批核物理研究骨干，形成我国自主的核理论研究力量。,Mentored leading nuclear physicists and helped build China's independent research capacity.,004:17,draft
+T058,于敏 | 代表事迹,Yumin | Notable Stories,005:01,draft
+T059,临危受命,A mission accepted in a time of need,005:07;033:07,draft
+T060,在国力薄弱、技术封锁的条件下，毅然接受氢弹理论预研任务。,"Despite limited national resources and a technology embargo, he accepted the task of preliminary hydrogen-bomb theory research.",005:08,draft
+T061,1966,1966,005:09,draft
+T062,原理突破,Theoretical breakthrough,005:10,draft
+T063,带领团队完成关键计算，攻破氢弹自持热核燃烧的理论难关。,His team completed key calculations and overcame the theoretical challenge of sustained thermonuclear burn.,005:11,draft
+T064,震惊世界,A world-changing milestone,005:13,draft
+T065,我国第一颗氢弹爆炸成功，从原子弹到氢弹仅用两年零八个月。,China's first hydrogen bomb succeeded; only two years and eight months separated it from the atomic bomb.,005:14,draft
+T066,1929—2020,1929–2020,006:02;007:08,draft
+T067,全国劳动模范 · 唯一连任十三届的全国人大代表,National Model Worker · The only person elected to 13 consecutive terms in the National People's Congress,006:03,draft
+T068,一位农民代表，把“男女同工同酬”写进了共和国宪法。,A farmer and people's representative who helped enshrine equal pay for equal work in the Constitution.,006:04,draft
+T069,申纪兰 | 生平,Shen Jilan | Biography,007:01,draft
+T070,男女同工同酬,Equal pay for equal work,007:09,draft
+T071,1929,1929,007:10;011:09,draft
+T072,生于山西平顺西沟村，一生扎根太行山乡,"Born in Xigou Village, Pingshun, Shanxi; she devoted her life to the Taihang Mountains.",007:11,draft
+T073,1952,1952,007:12;009:07,draft
+T074,带领妇女开展劳动竞赛，争取男女同工同酬,Organized women's labor competitions and campaigned for equal pay for equal work.,007:13,draft
+T075,1954,1954,007:14;009:10,draft
+T076,同工同酬倡议被写入新中国第一部宪法,The equal-pay proposal entered the first Constitution of the People's Republic of China.,007:15,draft
+T077,2020,2020,007:16;009:13;013:12;025:12;035:15;037:09;037:12,draft
+T078,逝世，享年九十一岁，一生未离开劳动一线,"She died at 91, having remained on the front line of labor throughout her life.",007:17,draft
+T079,申纪兰 | 主要贡献,Shen Jilan | Major Contributions,008:01,draft
+T080,推动同工同酬,Advanced equal pay for equal work,008:08,draft
+T081,以基层实践推动“男女同工同酬”写入宪法，开创妇女权益保障先河。,"Her grassroots work helped enshrine equal pay for equal work in the Constitution, advancing women's rights.",008:09,draft
+T082,见证民主进程,Witnessed democratic development,008:11,draft
+T083,连续当选十三届全国人大代表，参与并见证新中国民主法治建设。,"Elected to 13 consecutive NPC terms, she participated in and witnessed China's development of democratic rule of law.",008:12,draft
+T084,带领群众致富,Helped communities prosper,008:14,draft
+T085,几十年如一日扎根西沟，带领群众治山治水、脱贫致富。,"Rooted in Xigou for decades, she led residents in water conservation, poverty alleviation, and development.",008:15,draft
+T086,永葆劳动本色,Stayed true to her working-class roots,008:17,draft
+T087,坚持参加劳动、不脱离群众，成为基层代表的典范。,She kept working alongside local people and became a model grassroots representative.,008:18,draft
+T088,申纪兰 | 代表事迹,Shen Jilan | Notable Stories,009:01,draft
+T089,一场劳动竞赛,A labor competition,009:08,draft
+T090,组织妇女下地劳动，用实际工分证明“女人也能顶半边天”。,"She organized women to work in the fields, demonstrating that women could do half the work.",009:09,draft
+T091,写入宪法,Written into the Constitution,009:11,draft
+T092,她提出的男女同工同酬主张，被新中国第一部宪法采纳。,Her proposal for equal pay for equal work was adopted in the PRC's first Constitution.,009:12,draft
+T093,最后的身影,Her final years,009:14,draft
+T094,九十高龄仍坚守西沟，把一生献给了土地与人民。,"Even in her nineties, she remained in Xigou, devoting her life to the land and its people.",009:15,draft
+T095,1929—,1929–,010:01;011:07,draft
+T096,航天技术专家 · “中国卫星之父”,Aerospace technology expert · “Father of China's satellites”,010:02,draft
+T097,从“东方红一号”到探月工程，他把一生交给星空。,"From Dongfanghong-1 to lunar exploration, he devoted his life to space.",010:03,draft
+T098,孙家栋 | 生平,Sun Jiadong | Biography,011:01,draft
+T099,东方红一号,Dongfanghong-1,011:08;013:07,draft
+T100,生于辽宁复县，青年时代赴苏联学习飞机发动机,"Born in Fuxian, Liaoning; as a young man, he went to the Soviet Union to study aircraft engines.",011:10,draft
+T101,1958,1958,011:11;027:11;029:06,draft
+T102,回国投身导弹与航天事业，转入总体设计领域,"Returned to China to work in missile and space programs, specializing in overall system design.",011:12,draft
+T103,1970,1970,011:13;013:06;027:13;029:09,draft
+T104,担任“东方红一号”卫星技术总负责人,Appointed chief technical director of the Dongfanghong-1 satellite.,011:14,draft
+T105,2004,2004,011:15,draft
+T106,出任探月工程首任总设计师，时年七十五岁,Became the first chief designer of China's lunar exploration program at age 75.,011:16,draft
+T107,孙家栋 | 主要贡献,Sun Jiadong | Major Contributions,012:01,draft
+T108,开创卫星事业,Pioneered China's satellite program,012:07,draft
+T109,主持研制我国多颗人造卫星，奠定中国卫星工程技术基础。,"Led the development of multiple Chinese satellites, laying the technical foundation for the program.",012:08,draft
+T110,领航探月工程,Guided lunar exploration,012:10,draft
+T111,担任探月工程首任总设计师，推动“嫦娥”系列实现重大突破。,"As the program's first chief designer, he helped the Chang'e missions achieve major breakthroughs.",012:11,draft
+T112,构建北斗系统,Built the BeiDou system,012:13,draft
+T113,担任北斗导航第一代、第二代工程总设计师，建成中国自主导航体系。,"As chief designer of BeiDou's first and second generations, he helped establish China's independent navigation system.",012:14,draft
+T114,培养航天人才,Mentored aerospace talent,012:16,draft
+T115,长期主持航天工程总体设计，培养数代航天工程领军人才。,His leadership in aerospace systems engineering trained generations of project leaders.,012:17,draft
+T116,孙家栋 | 代表事迹,Sun Jiadong | Notable Stories,013:01,draft
+T117,作为技术总负责人，保障我国第一颗人造卫星成功入轨。,"As chief technical director, he helped ensure China's first satellite reached orbit successfully.",013:08,draft
+T118,2007,2007,013:09,draft
+T119,嫦娥一号,Chang'e-1,013:10,draft
+T120,七十五岁挂帅探月工程，实现中华民族千年奔月梦想。,"At 75, he led lunar exploration, bringing an ancient dream of reaching the Moon closer to reality.",013:11,draft
+T121,北斗收官,BeiDou completed,013:13,draft
+T122,北斗三号全球组网成功，中国拥有了自己的全球导航系统。,"With BeiDou-3's global network complete, China had its own global navigation system.",013:14,draft
+T123,1928—,1928–,014:01;015:07,draft
+T124,战斗英雄 · 抗美援朝特等功臣,Combat hero · Special-class merit award recipient in the War to Resist U.S. Aggression and Aid Korea,014:02,draft
+T125,阵地上的指挥员，用血肉之躯守住了每一寸阵地。,A commander on the front line who defended every inch of ground with courage and sacrifice.,014:03,draft
+T126,李延年 | 生平,Li Yannian | Biography,015:01,draft
+T127,抗美援朝,War to Resist U.S. Aggression and Aid Korea,015:08,draft
+T128,1928,1928,015:09,draft
+T129,生于河北昌黎，少年投身革命队伍,"Born in Changli, Hebei; joined the revolutionary forces as a teenager.",015:10,draft
+T130,1945,1945,015:11,draft
+T131,参加革命，在解放战争中屡立战功,Joined the revolution and distinguished himself in the War of Liberation.,015:12,draft
+T132,1951,1951,015:13;017:06;017:09,draft
+T133,抗美援朝战场指挥 346.6 高地防御战斗,Commanded the defense of Hill 346.6 during the Korean War.,015:14,draft
+T134,2019,2019,015:15;017:12,draft
+T135,获授“共和国勋章”，受到国家最高礼遇,"Awarded the Medal of the Republic, the nation's highest honor.",015:16;051:16,draft
+T136,李延年 | 主要贡献,Li Yannian | Major Contributions,016:01,draft
+T137,坚守高地,Held the high ground,016:07,draft
+T138,率部坚守 346.6 高地，多次打退敌人进攻，荣立特等功。,"He and his unit defended Hill 346.6, repelled repeated attacks, and earned a special-class merit award.",016:08,draft
+T139,英勇指挥,Commanded with courage,016:10,draft
+T140,在兵力火力处于劣势时沉着指挥，以极小代价完成防御任务。,"Outnumbered and outgunned, he remained calm and completed the defensive mission with minimal losses.",016:11,draft
+T141,传承精神,Passed on the spirit,016:13,draft
+T142,离休后积极投身国防教育，把战斗精神传给青年一代。,"After retirement, he devoted himself to national defense education and inspired younger generations.",016:14,draft
+T143,军人本色,A soldier's character,016:16;052:16,draft
+T144,始终保持革命军人作风，是人民军队忠诚战士的杰出代表。,A loyal serviceman who exemplified the traditions of the People's Army.,016:17,draft
+T145,李延年 | 代表事迹,Li Yannian | Notable Stories,017:01,draft
+T146,346.6 高地,Hill 346.6,017:07,draft
+T147,面对敌军轮番冲锋，指挥部队顽强坚守，阵地始终未失。,"As enemy forces charged repeatedly, he led his unit in a steadfast defense and never lost the position.",017:08,draft
+T148,特等功臣,Special-class merit recipient,017:10,draft
+T149,因战功卓著被记特等功，获“一级英雄”荣誉称号。,"For his outstanding service, he received a special-class merit award and the title “First-Class Hero.”",017:11,draft
+T150,国家礼遇,National recognition,017:13;053:13,draft
+T151,获授共和国勋章，代表无数志愿军将士接受国家致敬。,He received the Medal of the Republic in tribute to the many volunteer soldiers he represents.,017:14,draft
+T152,1924—,1924–,018:01;019:07;042:01;043:07,draft
+T153,战斗英雄 · 深藏功名六十余年的老英雄,Combat hero · A veteran who kept his military honors secret for more than 60 years,018:02,draft
+T154,战功赫赫却隐姓埋名，把荣誉锁进抽屉，把一生交给山区。,He hid his honors in a drawer and devoted his life to the mountain communities he served.,018:03,draft
+T155,张富清 | 生平,Zhang Fuqing | Biography,019:01,draft
+T156,深藏功名,Honors kept secret,019:08;020:10,draft
+T157,1924,1924,019:09;043:09,draft
+T158,生于陕西洋县，贫苦农家出身,"Born into a poor farming family in Yang County, Shaanxi.",019:10,draft
+T159,1948,1948,019:11;021:06;051:11,draft
+T160,参加中国人民解放军，同年加入中国共产党,Joined the People's Liberation Army and the Communist Party of China in the same year.,019:12,draft
+T161,1955,1955,019:13;021:09,draft
+T162,转业时主动选择湖北来凤最偏远的山区,"When reassigned to civilian work, he chose a remote mountain area in Laifeng, Hubei.",019:14,draft
+T163,2018,2018,019:15;021:12,draft
+T164,英雄事迹在退役军人信息采集中被发现,His heroic service came to light during a records review for veterans.,019:16,draft
+T165,张富清 | 主要贡献,Zhang Fuqing | Major Contributions,020:01,draft
+T166,屡立战功,Distinguished himself in battle,020:07,draft
+T167,解放战争中两次获“战斗英雄”荣誉称号，多次荣立军功。,He was named a “Combat Hero” twice in the War of Liberation and received multiple military honors.,020:08,draft
+T168,转业后六十余年从不提起战功，连家人也不知详情。,"For more than 60 years after leaving the army, he never spoke of his service—not even to his family.",020:11,draft
+T169,扎根基层,Rooted in the community,020:13,draft
+T170,在来凤县多个艰苦岗位工作，带领群众修路、发展生产。,"He served in demanding jobs across Laifeng County, helping residents build roads and develop production.",020:14,draft
+T171,初心如磐,Steadfast in his ideals,020:16,draft
+T172,以平凡坚守诠释共产党人的初心与使命。,His quiet dedication embodied the original aspiration and mission of a Communist Party member.,020:17,draft
+T173,张富清 | 代表事迹,Zhang Fuqing | Notable Stories,021:01,draft
+T174,永丰战役,Yongfeng Campaign,021:07,draft
+T175,担任突击队员，冲锋在前，英勇负伤仍坚持战斗。,"As an assault-team member, he led from the front and kept fighting after being wounded.",021:08,draft
+T176,主动请缨,Volunteered for the assignment,021:10,draft
+T177,转业时放弃城市，要求到最艰苦的来凤山区工作。,He gave up a city posting and asked to work in Laifeng's most difficult mountain district.,021:11,draft
+T178,勋章重光,His medals rediscovered,021:13,draft
+T179,一只旧皮箱里的军功章被发现，感动了整个中国。,The discovery of military medals in an old suitcase moved people across China.,021:14,draft
+T180,1930—2021,1930–2021,022:01;023:07,draft
+T181,杂交水稻育种专家 · “杂交水稻之父”,Hybrid rice breeder · “Father of hybrid rice”,022:02,draft
+T182,把饭碗牢牢端在中国人自己手上，让稻香飘向世界。,He helped put China's food supply in its own hands and shared the promise of rice with the world.,022:03,draft
+T183,袁隆平 | 生平,Yuan Longping | Biography,023:01,draft
+T184,杂交水稻,Hybrid rice,023:08,draft
+T185,1930,1930,023:09;031:09,draft
+T186,生于北京，江西德安人，童年经历饥荒记忆,"Born in Beijing and raised in De'an, Jiangxi; childhood memories of famine shaped his work.",023:10,draft
+T187,1964,1964,023:11,draft
+T188,在安江农校开始杂交水稻研究，寻找天然雄性不育株,"Began hybrid rice research at Anjiang Agricultural School, searching for naturally male-sterile plants.",023:12,draft
+T189,1973,1973,023:13;025:06,draft
+T190,成功培育出第一个实用高产杂交水稻品种“南优2号”,"Developed Nanyou No. 2, the first practical high-yield hybrid rice variety.",023:14,draft
+T191,2021,2021,023:15,draft
+T192,逝世，享年九十一岁，举国同悲,"He died at 91, mourned across the country.",023:16,draft
+T193,袁隆平 | 主要贡献,Yuan Longping | Major Contributions,024:01,draft
+T194,开创杂交水稻,Pioneered hybrid rice,024:07,draft
+T195,突破自花授粉作物无杂交优势的理论禁区，开创杂交水稻技术路线。,He challenged the theory that self-pollinating crops could not benefit from hybrid vigor and pioneered hybrid rice technology.,024:08,draft
+T196,大幅提高产量,Raised yields dramatically,024:10,draft
+T197,杂交水稻大面积推广，累计增产粮食数以亿吨计。,"Hybrid rice was widely adopted, contributing hundreds of millions of tonnes of additional grain.",024:11,draft
+T198,引领超级稻,Advanced super hybrid rice,024:13,draft
+T199,推动三系、两系到超级稻研究，我国杂交水稻始终居世界领先。,"He advanced three-line, two-line, and super hybrid rice research, keeping China at the forefront.",024:14,draft
+T200,惠及世界,Shared benefits worldwide,024:16,draft
+T201,杂交水稻技术在数十个国家推广，为解决全球粮食问题作出贡献。,Hybrid rice technology spread to dozens of countries and contributed to global food security.,024:17,draft
+T202,袁隆平 | 代表事迹,Yuan Longping | Notable Stories,025:01,draft
+T203,南优2号,Nanyou No. 2,025:07,draft
+T204,世界首个实用高产杂交水稻品种问世，亩产大幅跃升。,"The world's first practical high-yield hybrid rice variety arrived, sharply increasing yields per mu.",025:08,draft
+T205,1996,1996,025:09,draft
+T206,超级稻攻关,Super hybrid rice program,025:10,draft
+T207,主持超级杂交稻育种计划，亩产纪录不断刷新。,He led a super hybrid rice breeding program that repeatedly set new yield records.,025:11,draft
+T208,海水稻,Salt-tolerant rice,025:13,draft
+T209,耐盐碱水稻试种成功，为亿亩盐碱地带来丰收希望。,Successful trials of salt-tolerant rice brought hope of harvests on vast saline-alkali lands.,025:14,draft
+T210,1926—,1926–,026:01;027:07,draft
+T211,核潜艇专家 · “中国核潜艇之父”,Nuclear submarine expert · “Father of China's nuclear submarines”,026:02,draft
+T212,三十年隐姓埋名，把一生沉入深海，换国家一片安宁。,He spent 30 years in secrecy and devoted his life to the deep sea for the country's peace.,026:03,draft
+T213,黄旭华 | 生平,Huang Xuhua | Biography,027:01,draft
+T214,核潜艇,Nuclear submarine,027:08,draft
+T215,生于广东海丰，目睹山河破碎立志造船报国,"Born in Haifeng, Guangdong; witnessing a nation in crisis inspired him to build ships for China.",027:10,draft
+T216,奉命参与核潜艇研制，从此隐姓埋名三十年,"Assigned to the nuclear submarine program, he worked in secrecy for 30 years.",027:12,draft
+T217,我国第一艘核潜艇“长征一号”下水,"China's first nuclear submarine, Long March 1, was launched.",027:14,draft
+T218,1988,1988,027:15;029:12,draft
+T219,六十二岁亲自随核潜艇完成极限深潜试验,"At 62, he personally joined a nuclear submarine's extreme-depth trial.",027:16,draft
+T220,黄旭华 | 主要贡献,Huang Xuhua | Major Contributions,028:01,draft
+T221,从无到有,From nothing to a first,028:07,draft
+T222,主持研制我国第一代攻击型核潜艇，实现零的突破。,"He led development of China's first-generation attack submarine, achieving a historic breakthrough.",028:08,draft
+T223,战略重器,A strategic asset,028:10,draft
+T224,推动战略导弹核潜艇研制，构建我国海基核力量。,He advanced strategic missile-submarine development and helped build China's sea-based nuclear deterrent.,028:11,draft
+T225,技术攻坚,Solved critical technical challenges,028:13,draft
+T226,突破艇型设计、水下发射等多项关键核心技术。,"He helped overcome key challenges in hull design, underwater launches, and other core technologies.",028:14,draft
+T227,建立体系,Established a complete program,028:16,draft
+T228,建立我国核潜艇研制体系，形成自主设计制造能力。,He established China's nuclear submarine development framework and independent design and manufacturing capability.,028:17,draft
+T229,黄旭华 | 代表事迹,Huang Xuhua | Notable Stories,029:01,draft
+T230,隐姓埋名,A life in secrecy,029:07,draft
+T231,告别家人投身绝密工程，三十年未能与亲人相见。,He left his family for a classified program and could not see his relatives for 30 years.,029:08,draft
+T232,长征一号,Long March 1,029:10,draft
+T233,我国第一艘核潜艇下水，中国跻身核潜艇国家行列。,The launch of China's first nuclear submarine made the country one of the world's nuclear-submarine powers.,029:11,draft
+T234,极限深潜,Extreme-depth trial,029:13,draft
+T235,以总设计师身份亲自随艇深潜，创下世界核潜艇总师纪录。,"As chief designer, he joined a deep dive himself, setting a record for a nuclear submarine chief designer.",029:14,draft
+T236,1930—,1930–,030:01;031:07,draft
+T237,药学家 · 诺贝尔生理学或医学奖获得者,Pharmaceutical chemist · Nobel Prize in Physiology or Medicine laureate,030:02,draft
+T238,一株青蒿，救了数百万生命，也让世界看见中医药。,"One plant, Artemisia annua, helped save millions of lives and brought global attention to traditional Chinese medicine.",030:03,draft
+T239,屠呦呦 | 生平,Tu Youyou | Biography,031:01,draft
+T240,青蒿素,Artemisinin,031:08,draft
+T241,生于浙江宁波，毕业于北京大学医学院药学系,"Born in Ningbo, Zhejiang; graduated in pharmacy from Peking University's Medical School.",031:10,draft
+T242,1969,1969,031:11;033:06,draft
+T243,接受“523 项目”抗疟研究任务，担任课题组长,Accepted an antimalarial research assignment under Project 523 and led a research group.,031:12,draft
+T244,1972,1972,031:13;033:09,draft
+T245,成功提取出抗疟有效成分青蒿素,"Successfully extracted artemisinin, an active antimalarial compound.",031:14,draft
+T246,2015,2015,031:15;033:12,draft
+T247,获诺贝尔生理学或医学奖，中国本土科学家首位,"Won the Nobel Prize in Physiology or Medicine, the first Chinese scientist working in China to do so.",031:16,draft
+T248,屠呦呦 | 主要贡献,Tu Youyou | Major Contributions,032:01,draft
+T249,发现青蒿素,Discovered artemisinin,032:07,draft
+T250,从古籍中获灵感，改用低温提取，成功获得青蒿素。,"Inspired by ancient texts, she switched to low-temperature extraction and obtained artemisinin.",032:08,draft
+T251,攻克疟疾,Advanced malaria treatment,032:10,draft
+T252,开创疟疾治疗新方法，青蒿素类药物挽救数百万人生命。,Her work opened a new path to malaria treatment; artemisinin-based medicines have saved millions of lives.,032:11,draft
+T253,推动国际化,Expanded global reach,032:13,draft
+T254,推动中医药走向世界，获国际社会高度认可。,She helped traditional Chinese medicine gain global recognition.,032:14,draft
+T255,甘于奉献,Dedicated to service,032:16,draft
+T256,以身试药验证安全性，把论文写在救人一线。,She tested the medicine on herself to assess its safety and focused her research on saving lives.,032:17,draft
+T257,屠呦呦 | 代表事迹,Tu Youyou | Notable Stories,033:01,draft
+T258,在设备简陋的条件下承担抗疟攻关任务，翻阅大量古籍。,"With limited equipment, she took on antimalarial research and studied a wealth of ancient medical texts.",033:08,draft
+T259,青蒿一握,A handful of sweet wormwood,033:10,draft
+T260,受《肘后备急方》启发改用低温提取，青蒿素终获成功。,"Inspired by The Handbook of Prescriptions for Emergencies, she used low-temperature extraction and succeeded in isolating artemisinin.",033:11,draft
+T261,诺奖加冕,Nobel recognition,033:13,draft
+T262,获诺贝尔生理学或医学奖，成为首位获科学类诺奖的中国本土科学家。,She became the first China-based Chinese scientist to win a Nobel Prize in a scientific field.,033:14,draft
+T263,1936—,1936–,034:01;035:07,draft
+T264,呼吸病学专家 · 公共卫生应急体系建设推动者,Respiratory medicine expert · Advocate for public-health emergency systems,034:02,draft
+T265,两次疫情，两次逆行，敢医敢言，国士无双。,"Two epidemics, two times at the front line: a courageous doctor and candid voice.",034:03,draft
+T266,钟南山 | 生平,Zhong Nanshan | Biography,035:01,draft
+T267,非典,SARS,035:08,draft
+T268,1936,1936,035:09,draft
+T269,生于江苏南京，福建厦门人，出身医学世家,"Born in Nanjing, Jiangsu, and raised in Xiamen, Fujian, in a family of doctors.",035:10,draft
+T270,1979,1979,035:11;047:13;049:06,draft
+T271,赴英国爱丁堡大学进修，从事呼吸疾病研究,Studied at the University of Edinburgh and pursued research in respiratory diseases.,035:12,draft
+T272,2003,2003,035:13;037:06;039:13;041:09,draft
+T273,主持非典防治，提出国际认可的治疗方案,Led SARS prevention and treatment efforts and proposed an internationally recognized treatment plan.,035:14,draft
+T274,八十四岁奔赴武汉，成为全民抗疫的精神坐标,"At 84, he traveled to Wuhan and became a source of resolve in the nationwide fight against COVID-19.",035:16,draft
+T275,钟南山 | 主要贡献,Zhong Nanshan | Major Contributions,036:01,draft
+T276,非典攻坚,Fighting SARS,036:07,draft
+T277,2003 年主动请缨收治危重病人，探索出有效治疗方案。,"In 2003, he volunteered to treat critically ill patients and helped develop effective treatment methods.",036:08,draft
+T278,新冠预警,Early COVID-19 warning,036:10,draft
+T279,2020 年率先提出病毒“人传人”，为国家决策提供关键依据。,"In 2020, he was among the first to state that the virus could spread between people, informing national decisions.",036:11,draft
+T280,体系建设,Built public-health systems,036:13,draft
+T281,推动我国公共卫生事件应急体系和呼吸疾病防治网络建设。,He advanced China's public-health emergency response system and respiratory disease prevention network.,036:14,draft
+T282,科研育人,Research and mentorship,036:16,draft
+T283,长期从事慢阻肺等研究，培养大批呼吸医学人才。,His long-term research on COPD and other conditions trained many respiratory medicine specialists.,036:17,draft
+T284,钟南山 | 代表事迹,Zhong Nanshan | Notable Stories,037:01,draft
+T285,非典前线,On the SARS front line,037:07,draft
+T286,“把最危重的病人送到我这里来”，他始终站在最前线。,“Send the most critically ill patients to me.” He remained at the front line.,037:08,draft
+T287,武汉逆行,Journey to Wuhan,037:10,draft
+T288,八十四岁高龄连夜赴汉，在餐车上闭目小憩的照片感动全国。,"At 84, he traveled overnight to Wuhan; a photo of him resting on a train dining car moved the nation.",037:11,draft
+T289,敢医敢言,A candid medical voice,037:13,draft
+T290,在电视直播中明确“肯定人传人”，为防控争取了宝贵时间。,"On live television, he clearly said human-to-human transmission was occurring, buying time for the response.",037:14,draft
+T291,1932—2024,1932–2024,038:01;039:07,draft
+T292,航天技术专家 · 中国载人航天工程首任总设计师,Aerospace technology expert · First chief designer of China's crewed space program,038:02,draft
+T293,把中国人送上天，是他一生只做的三件事。,Sending Chinese people into space was the work he devoted his life to.,038:03,draft
+T294,王永志 | 生平,Wang Yongzhi | Biography,039:01,draft
+T295,载人航天,Crewed spaceflight,039:08,draft
+T296,1932,1932,039:09,draft
+T297,生于辽宁昌图，毕业于莫斯科航空学院,"Born in Changtu, Liaoning; graduated from the Moscow Aviation Institute.",039:10,draft
+T298,1992,1992,039:11;041:06,draft
+T299,主持论证并提出载人航天“三步走”发展战略,Led feasibility studies and proposed the three-step strategy for China's crewed space program.,039:12,draft
+T300,“神舟五号”成功发射，中国人首次进入太空,"Shenzhou 5 launched successfully, taking the first Chinese astronaut into space.",039:14,draft
+T301,2024,2024,039:15;043:15;047:15;051:15;053:12,draft
+T302,逝世，享年九十二岁，同年获授共和国勋章,He died at 92 and was awarded the Medal of the Republic that same year.,039:16,draft
+T303,王永志 | 主要贡献,Wang Yongzhi | Major Contributions,040:01,draft
+T304,擘画蓝图,Charted the course,040:07,draft
+T305,主持制定载人航天工程总体技术方案，确立“三步走”路线。,Led the overall technical plan for the crewed space program and established its three-step roadmap.,040:08,draft
+T306,神舟问天,Shenzhou missions,040:10,draft
+T307,作为首任总设计师，保障神舟系列飞船连续成功。,"As the first chief designer, he helped ensure the success of the Shenzhou spacecraft program.",040:11,draft
+T308,突破关键技术,Key technical breakthroughs,040:13,draft
+T309,解决火箭捆绑、逃逸救生等重大技术难题。,Helped solve major challenges in rocket bundling and launch-escape systems.,040:14,draft
+T310,空间站奠基,Laid the foundation for the space station,040:16,draft
+T311,推动交会对接与空间实验室工程，为空间站建设奠基。,"Advanced rendezvous and docking and space-laboratory projects, laying groundwork for the space station.",040:17,draft
+T312,王永志 | 代表事迹,Wang Yongzhi | Notable Stories,041:01,draft
+T313,三步走,Three-step strategy,041:07,draft
+T314,以严谨论证确立载人航天发展路线，成为中国航天蓝图。,His rigorous analysis established a roadmap that became the blueprint for China's crewed space program.,041:08,draft
+T315,神舟五号,Shenzhou 5,041:10,draft
+T316,杨利伟飞天成功，中国成为第三个独立掌握载人航天技术的国家。,Yang Liwei's successful flight made China the third country to independently master crewed spaceflight.,041:11,draft
+T317,2022,2022,041:12,draft
+T318,空间站建成,Space station completed,041:13,draft
+T319,中国空间站全面建成，几代航天人的梦想终成现实。,"China's space station was completed, fulfilling a dream shared by generations of space scientists.",041:14,draft
+T320,血液学家 · 中国工程院院士,Hematologist · Member of the Chinese Academy of Engineering,042:02,draft
+T321,让癌细胞“改邪归正”，让救命药变成人人吃得起的价格。,He helped cancer cells change course and made life-saving medicine affordable.,042:03,draft
+T322,王振义 | 生平,Wang Zhenyi | Biography,043:01,draft
+T323,诱导分化,Induced differentiation,043:08;044:07,draft
+T324,生于上海，毕业于震旦大学医学院,Born in Shanghai; graduated from Aurora University's School of Medicine.,043:10,draft
+T325,1986,1986,043:11;045:06,draft
+T326,首创全反式维甲酸诱导分化疗法,Pioneered all-trans retinoic acid therapy to induce cell differentiation.,043:12,draft
+T327,2010,2010,043:13;045:12,draft
+T328,获国家最高科学技术奖,Received China's State Preeminent Science and Technology Award.,043:14,draft
+T329,百岁之年获授“共和国勋章”,Awarded the Medal of the Republic at the age of 100.,043:16,draft
+T330,王振义 | 主要贡献,Wang Zhenyi | Major Contributions,044:01,draft
+T331,开创“让癌细胞改邪归正”的治疗思路，首创全反式维甲酸疗法。,"Pioneered a treatment that helped cancer cells change course, creating all-trans retinoic acid therapy.",044:08,draft
+T332,攻克白血病,Conquered leukemia,044:10,draft
+T333,使最凶险的急性早幼粒细胞白血病成为可治愈疾病。,"He helped make acute promyelocytic leukemia, once highly fatal, a curable disease.",044:11,draft
+T334,放弃专利,Waived patent rights,044:13,draft
+T335,主动放弃药物专利，让廉价救命药惠及全球患者。,He gave up patent rights so affordable life-saving medicine could reach patients worldwide.,044:14,draft
+T336,一门四院士,Four academicians in one family,044:16,draft
+T337,言传身教培养大批医学人才，成就“一门四院士”佳话。,His teaching and example nurtured many medical professionals and led to a family of four academicians.,044:17,draft
+T338,王振义 | 代表事迹,Wang Zhenyi | Notable Stories,045:01,draft
+T339,首例治愈,First patient cured,045:07,draft
+T340,应用全反式维甲酸，成功救治首例急性早幼粒细胞白血病患者。,All-trans retinoic acid was used to successfully treat the first patient with acute promyelocytic leukemia.,045:08,draft
+T341,1990,1990,045:09,draft
+T342,方案推广,Treatment adopted nationwide,045:10,draft
+T343,治疗方案在全国推广，患者五年生存率大幅提升。,"The treatment spread nationwide, dramatically improving patients' five-year survival rates.",045:11,draft
+T344,最高科技奖,Top science and technology award,045:13;049:13,draft
+T345,获国家最高科学技术奖，并把奖金全部捐出。,He received China's top science and technology award and donated the entire prize.,045:14,draft
+T346,1931—,1931–,046:01;047:07;050:01;051:07,draft
+T347,小麦育种专家 · “中国小麦远缘杂交之父”,Wheat breeder · “Father of distant hybridization in Chinese wheat”,046:02,draft
+T348,把野草的基因请进麦田，为中国人多打了一季粮食。,"He brought genes from wild grasses into wheat, helping China harvest more grain.",046:03,draft
+T349,李振声 | 生平,Li Zhensheng | Biography,047:01,draft
+T350,远缘杂交,Distant hybridization,047:08,draft
+T351,1931,1931,047:09;051:09,draft
+T352,生于山东淄博，毕业于山东农学院,"Born in Zibo, Shandong; graduated from Shandong Agricultural College.",047:10,draft
+T353,1956,1956,047:11,draft
+T354,赴陕西杨凌，开始小麦与偃麦草远缘杂交研究,"Moved to Yangling, Shaanxi, to study distant crosses between wheat and tall wheatgrass.",047:12,draft
+T355,“小偃”系列小麦品种大面积推广,Xiaoyan wheat varieties were widely adopted.,047:14,draft
+T356,获授“共和国勋章”,Awarded the Medal of the Republic.,047:16,draft
+T357,李振声 | 主要贡献,Li Zhensheng | Major Contributions,048:01,draft
+T358,开创远缘杂交,Pioneered distant hybridization,048:07,draft
+T359,开创小麦与偃麦草远缘杂交新领域，丰富小麦育种理论。,Opened a new field in wheat–tall wheatgrass hybridization and enriched wheat-breeding theory.,048:08,draft
+T360,培育新品种,Developed new varieties,048:10,draft
+T361,培育“小偃”系列抗病高产优质品种，累计推广数亿亩。,"Developed disease-resistant, high-yield, high-quality Xiaoyan varieties adopted across vast areas.",048:11,draft
+T362,染色体工程,Chromosome engineering,048:13,draft
+T363,系统研究小麦染色体工程，建立相关技术体系。,Systematically studied wheat chromosome engineering and established a related technical framework.,048:14,draft
+T364,中低产田治理,Improved low- and medium-yield fields,048:16,draft
+T365,提出黄淮海平原中低产田治理建议，推动粮食大幅增产。,"Proposed ways to improve fields in the Huang-Huai-Hai Plain, helping raise grain output.",048:17,draft
+T366,李振声 | 代表事迹,Li Zhensheng | Notable Stories,049:01,draft
+T367,小偃六号,Xiaoyan No. 6,049:07,draft
+T368,“小偃六号”等品种大面积推广，成为北方麦区主栽品种。,Xiaoyan No. 6 and other varieties became widely planted staples in northern wheat-growing regions.,049:08,draft
+T369,1987,1987,049:09,draft
+T370,黄淮海会战,Huang-Huai-Hai campaign,049:10,draft
+T371,牵头提出中低产田综合治理方案，带动区域粮食增产。,"He led a comprehensive plan to improve low-yield farmland, boosting regional grain production.",049:11,draft
+T372,2006,2006,049:12,draft
+T373,获国家最高科学技术奖，成为小麦育种领域代表科学家。,He received China's top science and technology award and became a leading figure in wheat breeding.,049:14,draft
+T374,战斗英雄 · 共和国勋章获得者,Combat hero · Medal of the Republic recipient,050:02,draft
+T375,从战火中走来，把军功藏进皱纹，把忠诚写在阵地。,"Forged in war, he kept his service medals out of sight and his loyalty on the battlefield.",050:03,draft
+T376,黄宗德 | 生平,Huang Zongde | Biography,051:01,draft
+T377,二级战斗英雄,Second-Class Combat Hero,051:08,draft
+T378,生于山东荣成，少年投身革命,"Born in Rongcheng, Shandong; joined the revolution as a young man.",051:10,draft
+T379,参加革命，同年加入中国共产党,Joined the revolution and the Communist Party of China in the same year.,051:12,draft
+T380,1953,1953,051:13;053:06;053:09,draft
+T381,抗美援朝金城战役中英勇作战,Fought bravely in the Battle of Kumsong during the Korean War.,051:14,draft
+T382,黄宗德 | 主要贡献,Huang Zongde | Major Contributions,052:01,draft
+T383,战场立功,Distinguished service in battle,052:07,draft
+T384,在解放战争与抗美援朝战争中英勇作战，多次荣立战功。,"He fought bravely in the War of Liberation and the Korean War, earning multiple military honors.",052:08,draft
+T385,金城鏖战,Battle of Kumsong,052:10,draft
+T386,金城战役中带领全班坚守阵地，获“二级战斗英雄”称号。,He led his squad in holding its position at Kumsong and received the title “Second-Class Combat Hero.”,052:11,draft
+T387,传承基因,Carried the legacy forward,052:13,draft
+T388,离休后关心国防教育，把红色故事讲给青年一代。,"After retirement, he supported national defense education and shared stories of the revolution with young people.",052:14,draft
+T389,始终保持革命军人作风，是新时代军人的光辉榜样。,He exemplified the traditions of a revolutionary soldier and remains a role model for today's service members.,052:17,draft
+T390,黄宗德 | 代表事迹,Huang Zongde | Notable Stories,053:01,draft
+T391,金城战役,Battle of Kumsong,053:07,draft
+T392,带领全班坚守阵地，面对敌军反扑沉着应战，寸土未失。,He led his squad in a steady defense against counterattacks and held every inch of ground.,053:08,draft
+T393,二级英雄,Second-Class Hero,053:10,draft
+T394,因战功卓著被授予“二级战斗英雄”荣誉称号。,"For outstanding service, he received the honorary title “Second-Class Combat Hero.”",053:11,draft
+T395,获授共和国勋章，代表参战将士接受国家致敬。,Awarded the Medal of the Republic in tribute to the service members who fought in the war.,053:14,draft

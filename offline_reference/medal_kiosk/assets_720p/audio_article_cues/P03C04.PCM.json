@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "培养航天人才。"
+                     },
+                     {
+                         "time_ticks":  24514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "长期主持航天工程总体设计，培养数代航天工程领军人才。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "培养"
+                     },
+                     {
+                         "time_ticks":  6164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "航天"
+                     },
+                     {
+                         "time_ticks":  11114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "人才"
+                     },
+                     {
+                         "time_ticks":  25514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "长期"
+                     },
+                     {
+                         "time_ticks":  31114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "主持"
+                     },
+                     {
+                         "time_ticks":  36114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "航天"
+                     },
+                     {
+                         "time_ticks":  41164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "工程"
+                     },
+                     {
+                         "time_ticks":  46064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "总体"
+                     },
+                     {
+                         "time_ticks":  50114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "设计"
+                     },
+                     {
+                         "time_ticks":  58814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "培养"
+                     },
+                     {
+                         "time_ticks":  63664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "数"
+                     },
+                     {
+                         "time_ticks":  66114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "代"
+                     },
+                     {
+                         "time_ticks":  68364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "航天"
+                     },
+                     {
+                         "time_ticks":  73414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "工程"
+                     },
+                     {
+                         "time_ticks":  78164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "领军"
+                     },
+                     {
+                         "time_ticks":  82464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "人才"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

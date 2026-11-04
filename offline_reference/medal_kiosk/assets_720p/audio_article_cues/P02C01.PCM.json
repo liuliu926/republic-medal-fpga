@@ -1,0 +1,116 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动同工同酬。"
+                     },
+                     {
+                         "time_ticks":  23764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "以基层实践推动“男女同工同酬”写入宪法，开创妇女权益保障先河。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动"
+                     },
+                     {
+                         "time_ticks":  5814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "同工同酬"
+                     },
+                     {
+                         "time_ticks":  24764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "以"
+                     },
+                     {
+                         "time_ticks":  27564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "基层"
+                     },
+                     {
+                         "time_ticks":  32214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "实践"
+                     },
+                     {
+                         "time_ticks":  36714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动"
+                     },
+                     {
+                         "time_ticks":  41114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "男女"
+                     },
+                     {
+                         "time_ticks":  45764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "同工同酬"
+                     },
+                     {
+                         "time_ticks":  55564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "写入"
+                     },
+                     {
+                         "time_ticks":  59664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "宪法"
+                     },
+                     {
+                         "time_ticks":  68914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "开创"
+                     },
+                     {
+                         "time_ticks":  73864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "妇女"
+                     },
+                     {
+                         "time_ticks":  77614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "权益"
+                     },
+                     {
+                         "time_ticks":  82614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "保障"
+                     },
+                     {
+                         "time_ticks":  87014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "先河"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

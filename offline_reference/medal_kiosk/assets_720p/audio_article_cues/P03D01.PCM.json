@@ -1,0 +1,140 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九七零年，东方红一号。"
+                     },
+                     {
+                         "time_ticks":  35814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "作为技术总负责人，保障我国第一颗人造卫星成功入轨。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九七零"
+                     },
+                     {
+                         "time_ticks":  9014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "东方红"
+                     },
+                     {
+                         "time_ticks":  23614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一"
+                     },
+                     {
+                         "time_ticks":  25314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "号"
+                     },
+                     {
+                         "time_ticks":  36814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "作为"
+                     },
+                     {
+                         "time_ticks":  40864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "技术"
+                     },
+                     {
+                         "time_ticks":  45364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "总"
+                     },
+                     {
+                         "time_ticks":  47764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "负责人"
+                     },
+                     {
+                         "time_ticks":  58514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "保障"
+                     },
+                     {
+                         "time_ticks":  63364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "我"
+                     },
+                     {
+                         "time_ticks":  65264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国"
+                     },
+                     {
+                         "time_ticks":  67914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "第一"
+                     },
+                     {
+                         "time_ticks":  71164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "颗"
+                     },
+                     {
+                         "time_ticks":  73914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "人造"
+                     },
+                     {
+                         "time_ticks":  78214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "卫星"
+                     },
+                     {
+                         "time_ticks":  82964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成功"
+                     },
+                     {
+                         "time_ticks":  87614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "入"
+                     },
+                     {
+                         "time_ticks":  89314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "轨"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

@@ -1,0 +1,140 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零零七年，嫦娥一号。"
+                     },
+                     {
+                         "time_ticks":  32814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "七十五岁挂帅探月工程，实现中华民族千年奔月梦想。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零零七"
+                     },
+                     {
+                         "time_ticks":  9014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "嫦娥"
+                     },
+                     {
+                         "time_ticks":  20664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一"
+                     },
+                     {
+                         "time_ticks":  22314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "号"
+                     },
+                     {
+                         "time_ticks":  33814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "七十五"
+                     },
+                     {
+                         "time_ticks":  39214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "岁"
+                     },
+                     {
+                         "time_ticks":  42164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "挂帅"
+                     },
+                     {
+                         "time_ticks":  47014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "探"
+                     },
+                     {
+                         "time_ticks":  49414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "月"
+                     },
+                     {
+                         "time_ticks":  51264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "工程"
+                     },
+                     {
+                         "time_ticks":  60664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "实现"
+                     },
+                     {
+                         "time_ticks":  65964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中华"
+                     },
+                     {
+                         "time_ticks":  70064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "民族"
+                     },
+                     {
+                         "time_ticks":  74864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "千"
+                     },
+                     {
+                         "time_ticks":  77464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  80414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "奔"
+                     },
+                     {
+                         "time_ticks":  82364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "月"
+                     },
+                     {
+                         "time_ticks":  84164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "梦想"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

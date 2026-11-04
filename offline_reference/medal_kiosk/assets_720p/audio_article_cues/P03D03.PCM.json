@@ -1,0 +1,146 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零二零年，北斗收官。"
+                     },
+                     {
+                         "time_ticks":  32464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "北斗三号全球组网成功，中国拥有了自己的全球导航系统。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零二零"
+                     },
+                     {
+                         "time_ticks":  8664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "北斗"
+                     },
+                     {
+                         "time_ticks":  19764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "收"
+                     },
+                     {
+                         "time_ticks":  22064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "官"
+                     },
+                     {
+                         "time_ticks":  33464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "北斗"
+                     },
+                     {
+                         "time_ticks":  37664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "三"
+                     },
+                     {
+                         "time_ticks":  40214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "号"
+                     },
+                     {
+                         "time_ticks":  42314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "全球"
+                     },
+                     {
+                         "time_ticks":  47864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "组"
+                     },
+                     {
+                         "time_ticks":  49964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "网"
+                     },
+                     {
+                         "time_ticks":  52064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成功"
+                     },
+                     {
+                         "time_ticks":  61514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中国"
+                     },
+                     {
+                         "time_ticks":  66114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "拥有"
+                     },
+                     {
+                         "time_ticks":  69764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "了"
+                     },
+                     {
+                         "time_ticks":  71964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "自己"
+                     },
+                     {
+                         "time_ticks":  75664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  76864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "全球"
+                     },
+                     {
+                         "time_ticks":  82464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "导航"
+                     },
+                     {
+                         "time_ticks":  87264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "系统"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

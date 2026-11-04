@@ -1,0 +1,23 @@
+第三方组件和来源说明
+
+1. Anlogic Tang Dynasty、eagle_s20 设备库及器件原语由安路提供，需安装对应工具。
+   TD 编译器、USB 驱动、设备数据库、Windows 系统库不作为参赛源代码分发。
+
+2. fpga/source/hdl_source/hdmi1.4b_transmitter_core/ 内 HDMI1.4b 加密发送核，
+   以及 include/sdr_as_ram.enc.v、sdr_init_ref.enc.v、sdr_wrrd.enc.v 等
+   SDRAM 接口模块，来源于开发板/赛题配套参考资料，保留其原有版权及加密内容。
+   本项目在其接口上实现素材读取、导航、字幕/混音、视频解码、缓存及显示合成。
+   包内仅把 3 处加密文件外的 include 引用改为相对路径，不解密或改动受保护负载。
+
+3. fpga/source/hdl_source/IP/ 的 FIFO、PLL 等为对应器件 IP 生成文件，
+   同目录 .ipc 和 .tcl 保留参数，需厂商仿真库/综合工具支持。
+
+4. 部分 SD、I2C、HDMI PHY、SDRAM 控制基础代码沿用开发板参考工程，
+   以文件头和模块原始注释为准；用户自主实现与改造内容不能覆盖原组件归属。
+
+5. 本包 TF 素材采用本项目提供的人物图文资料、中文配音、伴奏与开场视频。
+   音乐与历史人物素材仍归各自权利人；投稿人需依实际素材来源和参赛授权书处理。
+   本文件不虚构任何音乐、字体或肖像素材的独占版权/开放授权。
+
+6. Python（外部运行时）、Pillow/NumPy（离线转换/测试）、FFmpeg（外部媒体转换）、
+   Icarus Verilog（外部模块仿真）不在 FPGA 上运行；本包不包含其二进制安装程序。

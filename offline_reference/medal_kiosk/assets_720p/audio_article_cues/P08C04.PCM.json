@@ -1,0 +1,116 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "甘于奉献。"
+                     },
+                     {
+                         "time_ticks":  17564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "以身试药验证安全性，把论文写在救人一线。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "甘于"
+                     },
+                     {
+                         "time_ticks":  4914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "奉献"
+                     },
+                     {
+                         "time_ticks":  18564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "以"
+                     },
+                     {
+                         "time_ticks":  20364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "身"
+                     },
+                     {
+                         "time_ticks":  23214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "试"
+                     },
+                     {
+                         "time_ticks":  25314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "药"
+                     },
+                     {
+                         "time_ticks":  27814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "验证"
+                     },
+                     {
+                         "time_ticks":  32464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "安全"
+                     },
+                     {
+                         "time_ticks":  37064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "性"
+                     },
+                     {
+                         "time_ticks":  44314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "把"
+                     },
+                     {
+                         "time_ticks":  46264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "论文"
+                     },
+                     {
+                         "time_ticks":  50714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "写"
+                     },
+                     {
+                         "time_ticks":  53114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在"
+                     },
+                     {
+                         "time_ticks":  55614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "救人"
+                     },
+                     {
+                         "time_ticks":  59464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一线"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

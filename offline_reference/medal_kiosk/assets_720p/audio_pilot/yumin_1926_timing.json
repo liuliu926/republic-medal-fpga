@@ -1,0 +1,26 @@
+{
+  "sample_rate": 16000,
+  "total_samples": 146720,
+  "segments": [
+    {
+      "speech": "一九二六年，",
+      "subtitle": "1926",
+      "start_sample": 0
+    },
+    {
+      "speech": "于敏生于天津宁河，",
+      "subtitle": "生于天津宁河，",
+      "start_sample": 34240
+    },
+    {
+      "speech": "少年时代，",
+      "subtitle": "少年时代",
+      "start_sample": 80080
+    },
+    {
+      "speech": "立志科学报国。",
+      "subtitle": "立志科学报国",
+      "start_sample": 110960
+    }
+  ]
+}

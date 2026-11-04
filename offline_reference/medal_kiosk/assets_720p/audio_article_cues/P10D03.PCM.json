@@ -1,0 +1,140 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零二二年，空间站建成。"
+                     },
+                     {
+                         "time_ticks":  36314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中国空间站全面建成，几代航天人的梦想终成现实。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零二二"
+                     },
+                     {
+                         "time_ticks":  8564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "空间站"
+                     },
+                     {
+                         "time_ticks":  23114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "建"
+                     },
+                     {
+                         "time_ticks":  25314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成"
+                     },
+                     {
+                         "time_ticks":  37314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中国"
+                     },
+                     {
+                         "time_ticks":  41364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "空间站"
+                     },
+                     {
+                         "time_ticks":  48364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "全面"
+                     },
+                     {
+                         "time_ticks":  53114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "建"
+                     },
+                     {
+                         "time_ticks":  55264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成"
+                     },
+                     {
+                         "time_ticks":  62564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "几"
+                     },
+                     {
+                         "time_ticks":  64514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "代"
+                     },
+                     {
+                         "time_ticks":  66814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "航天"
+                     },
+                     {
+                         "time_ticks":  71764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "人"
+                     },
+                     {
+                         "time_ticks":  73514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  74614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "梦想"
+                     },
+                     {
+                         "time_ticks":  79914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "终"
+                     },
+                     {
+                         "time_ticks":  82064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成"
+                     },
+                     {
+                         "time_ticks":  84414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "现实"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

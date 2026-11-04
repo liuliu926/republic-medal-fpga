@@ -1,0 +1,158 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九六七年，震惊世界。"
+                     },
+                     {
+                         "time_ticks":  32664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "我国第一颗氢弹爆炸成功，从原子弹到氢弹仅用两年零八个月。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九六七"
+                     },
+                     {
+                         "time_ticks":  9014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "震惊"
+                     },
+                     {
+                         "time_ticks":  20414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "世界"
+                     },
+                     {
+                         "time_ticks":  33664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "我"
+                     },
+                     {
+                         "time_ticks":  35514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国"
+                     },
+                     {
+                         "time_ticks":  38264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "第一"
+                     },
+                     {
+                         "time_ticks":  41564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "颗"
+                     },
+                     {
+                         "time_ticks":  43664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "氢弹"
+                     },
+                     {
+                         "time_ticks":  48664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "爆炸"
+                     },
+                     {
+                         "time_ticks":  52764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成功"
+                     },
+                     {
+                         "time_ticks":  62214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "从"
+                     },
+                     {
+                         "time_ticks":  65214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "原子弹"
+                     },
+                     {
+                         "time_ticks":  71964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "到"
+                     },
+                     {
+                         "time_ticks":  74014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "氢弹"
+                     },
+                     {
+                         "time_ticks":  79064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "仅"
+                     },
+                     {
+                         "time_ticks":  81364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "用"
+                     },
+                     {
+                         "time_ticks":  83164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "两"
+                     },
+                     {
+                         "time_ticks":  85264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  88164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "零八"
+                     },
+                     {
+                         "time_ticks":  92614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "个"
+                     },
+                     {
+                         "time_ticks":  94214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "月"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

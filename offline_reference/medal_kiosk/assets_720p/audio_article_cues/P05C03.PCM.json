@@ -1,0 +1,110 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "扎根基层。"
+                     },
+                     {
+                         "time_ticks":  18114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在来凤县多个艰苦岗位工作，带领群众修路、发展生产。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "扎根"
+                     },
+                     {
+                         "time_ticks":  5314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "基层"
+                     },
+                     {
+                         "time_ticks":  19114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在"
+                     },
+                     {
+                         "time_ticks":  22064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "来凤"
+                     },
+                     {
+                         "time_ticks":  26214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "县"
+                     },
+                     {
+                         "time_ticks":  29114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "多个"
+                     },
+                     {
+                         "time_ticks":  33364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "艰苦"
+                     },
+                     {
+                         "time_ticks":  37514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "岗位"
+                     },
+                     {
+                         "time_ticks":  41664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "工作"
+                     },
+                     {
+                         "time_ticks":  50464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "带领"
+                     },
+                     {
+                         "time_ticks":  55064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "群众"
+                     },
+                     {
+                         "time_ticks":  59614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "修路"
+                     },
+                     {
+                         "time_ticks":  68264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "发展"
+                     },
+                     {
+                         "time_ticks":  72614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "生产"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

@@ -1,0 +1,92 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "染色体工程。"
+                     },
+                     {
+                         "time_ticks":  20864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "系统研究小麦染色体工程，建立相关技术体系。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "染色体"
+                     },
+                     {
+                         "time_ticks":  7864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "工程"
+                     },
+                     {
+                         "time_ticks":  21864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "系统"
+                     },
+                     {
+                         "time_ticks":  26464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "研究"
+                     },
+                     {
+                         "time_ticks":  31364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "小麦"
+                     },
+                     {
+                         "time_ticks":  36414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "染色体"
+                     },
+                     {
+                         "time_ticks":  42514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "工程"
+                     },
+                     {
+                         "time_ticks":  52014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "建立"
+                     },
+                     {
+                         "time_ticks":  56414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "相关"
+                     },
+                     {
+                         "time_ticks":  61764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "技术"
+                     },
+                     {
+                         "time_ticks":  65764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "体系"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

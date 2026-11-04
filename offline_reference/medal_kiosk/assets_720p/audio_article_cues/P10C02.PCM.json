@@ -1,0 +1,104 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "神舟问天。"
+                     },
+                     {
+                         "time_ticks":  18214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "作为首任总设计师，保障神舟系列飞船连续成功。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "神舟"
+                     },
+                     {
+                         "time_ticks":  5564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "问天"
+                     },
+                     {
+                         "time_ticks":  19214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "作为"
+                     },
+                     {
+                         "time_ticks":  23164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "首任"
+                     },
+                     {
+                         "time_ticks":  28114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "总"
+                     },
+                     {
+                         "time_ticks":  30314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "设计"
+                     },
+                     {
+                         "time_ticks":  34264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "师"
+                     },
+                     {
+                         "time_ticks":  41414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "保障"
+                     },
+                     {
+                         "time_ticks":  45664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "神舟"
+                     },
+                     {
+                         "time_ticks":  50364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "系列"
+                     },
+                     {
+                         "time_ticks":  54364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "飞船"
+                     },
+                     {
+                         "time_ticks":  59564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "连续"
+                     },
+                     {
+                         "time_ticks":  63864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成功"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

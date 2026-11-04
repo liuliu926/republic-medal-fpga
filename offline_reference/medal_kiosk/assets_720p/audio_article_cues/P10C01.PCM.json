@@ -1,0 +1,116 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "擘画蓝图。"
+                     },
+                     {
+                         "time_ticks":  18464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "主持制定载人航天工程总体技术方案，确立“三步走”路线。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "擘画"
+                     },
+                     {
+                         "time_ticks":  5414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "蓝图"
+                     },
+                     {
+                         "time_ticks":  19464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "主持"
+                     },
+                     {
+                         "time_ticks":  23264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "制定"
+                     },
+                     {
+                         "time_ticks":  27764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "载人"
+                     },
+                     {
+                         "time_ticks":  32514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "航天"
+                     },
+                     {
+                         "time_ticks":  37514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "工程"
+                     },
+                     {
+                         "time_ticks":  42414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "总体"
+                     },
+                     {
+                         "time_ticks":  47264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "技术"
+                     },
+                     {
+                         "time_ticks":  51264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "方案"
+                     },
+                     {
+                         "time_ticks":  60214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "确立"
+                     },
+                     {
+                         "time_ticks":  64664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "三"
+                     },
+                     {
+                         "time_ticks":  67414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "步"
+                     },
+                     {
+                         "time_ticks":  69664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "走"
+                     },
+                     {
+                         "time_ticks":  71914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "路线"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

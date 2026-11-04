@@ -1,0 +1,146 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零零三年，非典前线。"
+                     },
+                     {
+                         "time_ticks":  33864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "“把最危重的病人送到我这里来”，他始终站在最前线。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零零三"
+                     },
+                     {
+                         "time_ticks":  9064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "非典"
+                     },
+                     {
+                         "time_ticks":  20864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "前线"
+                     },
+                     {
+                         "time_ticks":  34864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "把"
+                     },
+                     {
+                         "time_ticks":  37764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "最"
+                     },
+                     {
+                         "time_ticks":  40114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "危重"
+                     },
+                     {
+                         "time_ticks":  44114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  45264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "病人"
+                     },
+                     {
+                         "time_ticks":  49714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "送"
+                     },
+                     {
+                         "time_ticks":  52464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "到"
+                     },
+                     {
+                         "time_ticks":  54614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "我"
+                     },
+                     {
+                         "time_ticks":  56564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "这里"
+                     },
+                     {
+                         "time_ticks":  59714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "来"
+                     },
+                     {
+                         "time_ticks":  66614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "他"
+                     },
+                     {
+                         "time_ticks":  68514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "始终"
+                     },
+                     {
+                         "time_ticks":  73464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "站"
+                     },
+                     {
+                         "time_ticks":  75764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在"
+                     },
+                     {
+                         "time_ticks":  77964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "最"
+                     },
+                     {
+                         "time_ticks":  80214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "前线"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

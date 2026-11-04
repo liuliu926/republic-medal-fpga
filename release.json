@@ -1,0 +1,74 @@
+{
+  "release": "final_flash_settings_percent_20261103",
+  "date": "2026-11-03",
+  "board": "HX4S20C V1.0",
+  "device": "EG4S20BG256",
+  "td_version": "6.2.168116",
+  "bitstream": "fpga/prebuilt/medal_final.bit",
+  "bitstream_sha256": "e97e2a9e39c9b46f131ff39e659e2ffbd45151c6606b8c1ebaab938e1bb2e945",
+  "configuration_flash": "U39 W25Q16 16 Mbit",
+  "flash_written": true,
+  "flash_verified": true,
+  "cold_boot_validated": true,
+  "requires_pc_at_runtime": false,
+  "tf_file_count": 371,
+  "logic_scope": "Complete accepted integrated design; no new functional RTL changes during packaging.",
+  "project_path_changes": [
+    {
+      "file": "fpga/source/hdl_source/include/sdr_as_ram.enc.v",
+      "change": "include path only; encrypted payload and logic preserved",
+      "original_sha256": "f3beb3f133336bd4155910e42e49c954aac3dd646e1a90d72d56a3857071fa37",
+      "packaged_sha256": "b1219f8fb4ebc29d1fa5d1445de6c40bbb9af751a374f386981f50cbfc853863"
+    },
+    {
+      "file": "fpga/source/hdl_source/include/sdr_init_ref.enc.v",
+      "change": "include path only; encrypted payload and logic preserved",
+      "original_sha256": "54ac48be470d9667d2d51ca11373651205696686b76abdda7d8e84660aa913f8",
+      "packaged_sha256": "fe41f8176ce12110bbe1f14e33739cc033e1f2f86a66d29c06d7ab1eb991dbf3"
+    },
+    {
+      "file": "fpga/source/hdl_source/SD/sdram.v",
+      "change": "include path only; encrypted payload and logic preserved",
+      "original_sha256": "d38fce0b11c0ab39c704f4af3156d2e94624a58b31054629ea59107a9143ce4f",
+      "packaged_sha256": "6ecfc17a868d7c927eed1bcb557adf414cedb0419025925726479fa682fc5423"
+    },
+    {
+      "file": "fpga/run/medal_kiosk_720p.prj",
+      "change": "89 project paths changed from machine-absolute to package-relative",
+      "references": 89
+    },
+    {
+      "file": "fpga/tests/check_settings_legacy.py",
+      "change": "simulator lookup uses IVERILOG_BIN or PATH; test assertions preserved",
+      "original_sha256": "ff421429dc242bc845d992d6f56c442797e016154950f2cfd441071aae92647f",
+      "packaged_sha256": "b17f497d69ba29e25fbf2f49638ab5978c38d1513fa76afed2aebd058ca3d85e"
+    },
+    {
+      "file": "fpga/tests/check_settings_percent.py",
+      "change": "simulator lookup uses IVERILOG_BIN or PATH; test assertions preserved",
+      "original_sha256": "e1725f787be69e068d5f8f9637df8af252e28d4852dd510c7fcdd5e061c709d2",
+      "packaged_sha256": "a4c417ead6a606b4348fe8320c2716726e032bbcdc3887c79a061492c5bf4f7b"
+    },
+    {
+      "file": "fpga/run/medal_kiosk_720p.prj",
+      "change": "GUI ADC now pin_bilingual.adc, matching the accepted build.tcl constraint selection"
+    }
+  ],
+  "timing": {
+    "static_timing_closed": false,
+    "setup_wns_ns": -6.692,
+    "hold_wns_ns": -1.54,
+    "video_clock_setup_wns_ns": -5.385
+  },
+  "note": "Functional hardware acceptance and Flash verification are separate from static timing signoff.",
+  "packaging_checks": {
+    "project_entries": 89,
+    "portable_TD_elaboration": true,
+    "full_rebuild_performed_during_packaging": false,
+    "module_regression": "passed",
+    "pipeline_assertions": 3807973,
+    "pixels_compared": 950432,
+    "valid_audio_samples_compared": 6239,
+    "no_hardware_or_TF_access": true
+  }
+}

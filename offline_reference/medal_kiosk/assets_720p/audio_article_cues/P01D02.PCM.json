@@ -1,0 +1,128 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九六六年，原理突破。"
+                     },
+                     {
+                         "time_ticks":  32764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "带领团队完成关键计算，攻破氢弹自持热核燃烧的理论难关。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九六六"
+                     },
+                     {
+                         "time_ticks":  8764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "原理"
+                     },
+                     {
+                         "time_ticks":  20214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "突破"
+                     },
+                     {
+                         "time_ticks":  33764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "带领"
+                     },
+                     {
+                         "time_ticks":  37714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "团队"
+                     },
+                     {
+                         "time_ticks":  42564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "完成"
+                     },
+                     {
+                         "time_ticks":  47864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "关键"
+                     },
+                     {
+                         "time_ticks":  52214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "计算"
+                     },
+                     {
+                         "time_ticks":  61214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "攻破"
+                     },
+                     {
+                         "time_ticks":  65414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "氢弹"
+                     },
+                     {
+                         "time_ticks":  70414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "自持"
+                     },
+                     {
+                         "time_ticks":  74114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "热核"
+                     },
+                     {
+                         "time_ticks":  78764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "燃烧"
+                     },
+                     {
+                         "time_ticks":  83364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  85214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "理论"
+                     },
+                     {
+                         "time_ticks":  88814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "难关"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

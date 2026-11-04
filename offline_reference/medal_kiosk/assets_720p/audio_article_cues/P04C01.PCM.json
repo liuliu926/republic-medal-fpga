@@ -1,0 +1,116 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "坚守高地。"
+                     },
+                     {
+                         "time_ticks":  17414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "率部坚守 346.6 高地，多次打退敌人进攻，荣立特等功。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "坚守"
+                     },
+                     {
+                         "time_ticks":  5614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "高地"
+                     },
+                     {
+                         "time_ticks":  18414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "率"
+                     },
+                     {
+                         "time_ticks":  20564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "部"
+                     },
+                     {
+                         "time_ticks":  22914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "坚守"
+                     },
+                     {
+                         "time_ticks":  27764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "346.6"
+                     },
+                     {
+                         "time_ticks":  42464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "高地"
+                     },
+                     {
+                         "time_ticks":  50664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "多次"
+                     },
+                     {
+                         "time_ticks":  54564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "打退"
+                     },
+                     {
+                         "time_ticks":  59764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "敌人"
+                     },
+                     {
+                         "time_ticks":  63714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "进攻"
+                     },
+                     {
+                         "time_ticks":  73014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "荣立"
+                     },
+                     {
+                         "time_ticks":  77064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "特"
+                     },
+                     {
+                         "time_ticks":  79114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "等"
+                     },
+                     {
+                         "time_ticks":  81114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "功"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

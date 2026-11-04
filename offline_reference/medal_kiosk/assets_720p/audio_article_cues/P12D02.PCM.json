@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九八七年，黄淮海会战。"
+                     },
+                     {
+                         "time_ticks":  36664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "牵头提出中低产田综合治理方案，带动区域粮食增产。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九八七"
+                     },
+                     {
+                         "time_ticks":  8914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "黄"
+                     },
+                     {
+                         "time_ticks":  19164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "淮海"
+                     },
+                     {
+                         "time_ticks":  23914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "会战"
+                     },
+                     {
+                         "time_ticks":  37664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "牵头"
+                     },
+                     {
+                         "time_ticks":  42414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "提出"
+                     },
+                     {
+                         "time_ticks":  47064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中"
+                     },
+                     {
+                         "time_ticks":  49264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "低产田"
+                     },
+                     {
+                         "time_ticks":  56314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "综合"
+                     },
+                     {
+                         "time_ticks":  61114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "治理"
+                     },
+                     {
+                         "time_ticks":  64764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "方案"
+                     },
+                     {
+                         "time_ticks":  73664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "带动"
+                     },
+                     {
+                         "time_ticks":  78114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "区域"
+                     },
+                     {
+                         "time_ticks":  82614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "粮食"
+                     },
+                     {
+                         "time_ticks":  86964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "增产"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

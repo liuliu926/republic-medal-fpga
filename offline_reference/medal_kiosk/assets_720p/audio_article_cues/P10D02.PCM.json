@@ -1,0 +1,152 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零零三年，神舟五号。"
+                     },
+                     {
+                         "time_ticks":  33214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "杨利伟飞天成功，中国成为第三个独立掌握载人航天技术的国家。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零零三"
+                     },
+                     {
+                         "time_ticks":  9064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "神舟"
+                     },
+                     {
+                         "time_ticks":  20864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "五"
+                     },
+                     {
+                         "time_ticks":  22614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "号"
+                     },
+                     {
+                         "time_ticks":  34214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "杨"
+                     },
+                     {
+                         "time_ticks":  36914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "利"
+                     },
+                     {
+                         "time_ticks":  38464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "伟"
+                     },
+                     {
+                         "time_ticks":  41064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "飞天"
+                     },
+                     {
+                         "time_ticks":  45614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成功"
+                     },
+                     {
+                         "time_ticks":  55014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中国"
+                     },
+                     {
+                         "time_ticks":  59664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成为"
+                     },
+                     {
+                         "time_ticks":  64614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "第三"
+                     },
+                     {
+                         "time_ticks":  68914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "个"
+                     },
+                     {
+                         "time_ticks":  71064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "独立"
+                     },
+                     {
+                         "time_ticks":  74764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "掌握"
+                     },
+                     {
+                         "time_ticks":  79614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "载人"
+                     },
+                     {
+                         "time_ticks":  84464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "航天"
+                     },
+                     {
+                         "time_ticks":  89414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "技术"
+                     },
+                     {
+                         "time_ticks":  93114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  94364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国家"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

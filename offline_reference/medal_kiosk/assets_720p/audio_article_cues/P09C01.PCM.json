@@ -1,0 +1,110 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "非典攻坚。"
+                     },
+                     {
+                         "time_ticks":  18114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "2003 年主动请缨收治危重病人，探索出有效治疗方案。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "非典"
+                     },
+                     {
+                         "time_ticks":  5514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "攻坚"
+                     },
+                     {
+                         "time_ticks":  19114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "2003"
+                     },
+                     {
+                         "time_ticks":  27164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  30264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "主动"
+                     },
+                     {
+                         "time_ticks":  34164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "请缨"
+                     },
+                     {
+                         "time_ticks":  39064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "收治"
+                     },
+                     {
+                         "time_ticks":  43664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "危重"
+                     },
+                     {
+                         "time_ticks":  47864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "病人"
+                     },
+                     {
+                         "time_ticks":  56864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "探索"
+                     },
+                     {
+                         "time_ticks":  61114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "出"
+                     },
+                     {
+                         "time_ticks":  63664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "有效"
+                     },
+                     {
+                         "time_ticks":  68514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "治疗"
+                     },
+                     {
+                         "time_ticks":  72864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "方案"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

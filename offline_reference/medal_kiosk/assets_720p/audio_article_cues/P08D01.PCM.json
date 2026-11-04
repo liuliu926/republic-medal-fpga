@@ -1,0 +1,128 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九六九年，临危受命。"
+                     },
+                     {
+                         "time_ticks":  33264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在设备简陋的条件下承担抗疟攻关任务，翻阅大量古籍。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九六九"
+                     },
+                     {
+                         "time_ticks":  9014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "临危受命"
+                     },
+                     {
+                         "time_ticks":  34264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在"
+                     },
+                     {
+                         "time_ticks":  36614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "设备"
+                     },
+                     {
+                         "time_ticks":  41164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "简陋"
+                     },
+                     {
+                         "time_ticks":  45314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  47214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "条件"
+                     },
+                     {
+                         "time_ticks":  51964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "下"
+                     },
+                     {
+                         "time_ticks":  54564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "承担"
+                     },
+                     {
+                         "time_ticks":  59714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "抗"
+                     },
+                     {
+                         "time_ticks":  62364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "疟"
+                     },
+                     {
+                         "time_ticks":  64564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "攻关"
+                     },
+                     {
+                         "time_ticks":  68864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "任务"
+                     },
+                     {
+                         "time_ticks":  77014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "翻阅"
+                     },
+                     {
+                         "time_ticks":  81564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "大量"
+                     },
+                     {
+                         "time_ticks":  85864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "古籍"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

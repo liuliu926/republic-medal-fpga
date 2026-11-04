@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九五四年，写入宪法。"
+                     },
+                     {
+                         "time_ticks":  33164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "她提出的男女同工同酬主张，被新中国第一部宪法采纳。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九五四"
+                     },
+                     {
+                         "time_ticks":  8614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "写入"
+                     },
+                     {
+                         "time_ticks":  20364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "宪法"
+                     },
+                     {
+                         "time_ticks":  34164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "她"
+                     },
+                     {
+                         "time_ticks":  36064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "提出"
+                     },
+                     {
+                         "time_ticks":  39914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  41214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "男女"
+                     },
+                     {
+                         "time_ticks":  45714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "同工同酬"
+                     },
+                     {
+                         "time_ticks":  54814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "主张"
+                     },
+                     {
+                         "time_ticks":  63614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "被"
+                     },
+                     {
+                         "time_ticks":  65564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "新中国"
+                     },
+                     {
+                         "time_ticks":  72714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "第一"
+                     },
+                     {
+                         "time_ticks":  76164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "部"
+                     },
+                     {
+                         "time_ticks":  78264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "宪法"
+                     },
+                     {
+                         "time_ticks":  82814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "采纳"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

@@ -1,0 +1,128 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零一八年，勋章重光。"
+                     },
+                     {
+                         "time_ticks":  34014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一只旧皮箱里的军功章被发现，感动了整个中国。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零一八"
+                     },
+                     {
+                         "time_ticks":  8364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  15714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "勋章"
+                     },
+                     {
+                         "time_ticks":  20664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "重光"
+                     },
+                     {
+                         "time_ticks":  35014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一"
+                     },
+                     {
+                         "time_ticks":  37064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "只"
+                     },
+                     {
+                         "time_ticks":  38714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "旧"
+                     },
+                     {
+                         "time_ticks":  41314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "皮箱"
+                     },
+                     {
+                         "time_ticks":  45914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "里"
+                     },
+                     {
+                         "time_ticks":  47414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  49564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "军功章"
+                     },
+                     {
+                         "time_ticks":  56464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "被"
+                     },
+                     {
+                         "time_ticks":  58464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "发现"
+                     },
+                     {
+                         "time_ticks":  67964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "感动"
+                     },
+                     {
+                         "time_ticks":  72314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "了"
+                     },
+                     {
+                         "time_ticks":  74314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "整个"
+                     },
+                     {
+                         "time_ticks":  78514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中国"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

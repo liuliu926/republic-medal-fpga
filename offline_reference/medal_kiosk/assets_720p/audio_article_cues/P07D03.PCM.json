@@ -1,0 +1,158 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九八八年，极限深潜。"
+                     },
+                     {
+                         "time_ticks":  34264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "以总设计师身份亲自随艇深潜，创下世界核潜艇总师纪录。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九八八"
+                     },
+                     {
+                         "time_ticks":  8664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "极限"
+                     },
+                     {
+                         "time_ticks":  20614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "深"
+                     },
+                     {
+                         "time_ticks":  23114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "潜"
+                     },
+                     {
+                         "time_ticks":  35264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "以"
+                     },
+                     {
+                         "time_ticks":  38064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "总"
+                     },
+                     {
+                         "time_ticks":  40364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "设计"
+                     },
+                     {
+                         "time_ticks":  44264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "师"
+                     },
+                     {
+                         "time_ticks":  46214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "身份"
+                     },
+                     {
+                         "time_ticks":  51214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "亲自"
+                     },
+                     {
+                         "time_ticks":  56464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "随"
+                     },
+                     {
+                         "time_ticks":  58964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "艇"
+                     },
+                     {
+                         "time_ticks":  61764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "深"
+                     },
+                     {
+                         "time_ticks":  64264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "潜"
+                     },
+                     {
+                         "time_ticks":  71964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "创"
+                     },
+                     {
+                         "time_ticks":  74564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "下"
+                     },
+                     {
+                         "time_ticks":  77114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "世界"
+                     },
+                     {
+                         "time_ticks":  81364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "核潜艇"
+                     },
+                     {
+                         "time_ticks":  89164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "总"
+                     },
+                     {
+                         "time_ticks":  91464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "师"
+                     },
+                     {
+                         "time_ticks":  93414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "纪录"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

@@ -1,0 +1,152 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零二零年，敢医敢言。"
+                     },
+                     {
+                         "time_ticks":  33064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在电视直播中明确“肯定人传人”，为防控争取了宝贵时间。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零二零"
+                     },
+                     {
+                         "time_ticks":  8664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "敢"
+                     },
+                     {
+                         "time_ticks":  18464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "医"
+                     },
+                     {
+                         "time_ticks":  20114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "敢"
+                     },
+                     {
+                         "time_ticks":  22314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "言"
+                     },
+                     {
+                         "time_ticks":  34064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在"
+                     },
+                     {
+                         "time_ticks":  36414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "电视"
+                     },
+                     {
+                         "time_ticks":  41314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "直播"
+                     },
+                     {
+                         "time_ticks":  45214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中"
+                     },
+                     {
+                         "time_ticks":  47764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "明确"
+                     },
+                     {
+                         "time_ticks":  52664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "肯定"
+                     },
+                     {
+                         "time_ticks":  57314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "人"
+                     },
+                     {
+                         "time_ticks":  59214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "传人"
+                     },
+                     {
+                         "time_ticks":  68914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "为"
+                     },
+                     {
+                         "time_ticks":  70964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "防"
+                     },
+                     {
+                         "time_ticks":  73864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "控"
+                     },
+                     {
+                         "time_ticks":  76514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "争取"
+                     },
+                     {
+                         "time_ticks":  80414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "了"
+                     },
+                     {
+                         "time_ticks":  82564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "宝贵"
+                     },
+                     {
+                         "time_ticks":  86814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "时间"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

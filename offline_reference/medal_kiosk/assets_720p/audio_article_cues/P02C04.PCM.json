@@ -1,0 +1,110 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "永葆劳动本色。"
+                     },
+                     {
+                         "time_ticks":  22514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "坚持参加劳动、不脱离群众，成为基层代表的典范。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "永葆"
+                     },
+                     {
+                         "time_ticks":  6064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "劳动"
+                     },
+                     {
+                         "time_ticks":  10314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "本色"
+                     },
+                     {
+                         "time_ticks":  23514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "坚持"
+                     },
+                     {
+                         "time_ticks":  29114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "参加"
+                     },
+                     {
+                         "time_ticks":  33564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "劳动"
+                     },
+                     {
+                         "time_ticks":  42064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "不"
+                     },
+                     {
+                         "time_ticks":  43864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "脱离"
+                     },
+                     {
+                         "time_ticks":  47564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "群众"
+                     },
+                     {
+                         "time_ticks":  56664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成为"
+                     },
+                     {
+                         "time_ticks":  61514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "基层"
+                     },
+                     {
+                         "time_ticks":  65864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "代表"
+                     },
+                     {
+                         "time_ticks":  69514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  70714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "典范"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

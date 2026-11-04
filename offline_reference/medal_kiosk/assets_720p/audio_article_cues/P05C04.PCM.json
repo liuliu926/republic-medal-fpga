@@ -1,0 +1,104 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "初心如磐。"
+                     },
+                     {
+                         "time_ticks":  18014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "以平凡坚守诠释共产党人的初心与使命。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "初心"
+                     },
+                     {
+                         "time_ticks":  5364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "如"
+                     },
+                     {
+                         "time_ticks":  7064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "磐"
+                     },
+                     {
+                         "time_ticks":  19014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "以"
+                     },
+                     {
+                         "time_ticks":  21714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "平凡"
+                     },
+                     {
+                         "time_ticks":  26614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "坚守"
+                     },
+                     {
+                         "time_ticks":  31314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "诠释"
+                     },
+                     {
+                         "time_ticks":  36664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "共产党"
+                     },
+                     {
+                         "time_ticks":  43364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "人"
+                     },
+                     {
+                         "time_ticks":  45114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  47064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "初心"
+                     },
+                     {
+                         "time_ticks":  52464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "与"
+                     },
+                     {
+                         "time_ticks":  54414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "使命"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

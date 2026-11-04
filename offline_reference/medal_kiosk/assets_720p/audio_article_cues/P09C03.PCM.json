@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "体系建设。"
+                     },
+                     {
+                         "time_ticks":  17564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动我国公共卫生事件应急体系和呼吸疾病防治网络建设。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "体系"
+                     },
+                     {
+                         "time_ticks":  5064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "建设"
+                     },
+                     {
+                         "time_ticks":  18564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推动"
+                     },
+                     {
+                         "time_ticks":  23364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "我"
+                     },
+                     {
+                         "time_ticks":  25264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国"
+                     },
+                     {
+                         "time_ticks":  27214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "公共"
+                     },
+                     {
+                         "time_ticks":  31614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "卫生"
+                     },
+                     {
+                         "time_ticks":  35664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "事件"
+                     },
+                     {
+                         "time_ticks":  40164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "应急"
+                     },
+                     {
+                         "time_ticks":  44264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "体系"
+                     },
+                     {
+                         "time_ticks":  49064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "和"
+                     },
+                     {
+                         "time_ticks":  51414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "呼吸"
+                     },
+                     {
+                         "time_ticks":  55414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "疾病"
+                     },
+                     {
+                         "time_ticks":  59664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "防治"
+                     },
+                     {
+                         "time_ticks":  64514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "网络"
+                     },
+                     {
+                         "time_ticks":  68664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "建设"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

@@ -1,0 +1,116 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "发现青蒿素。"
+                     },
+                     {
+                         "time_ticks":  21664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "从古籍中获灵感，改用低温提取，成功获得青蒿素。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "发现"
+                     },
+                     {
+                         "time_ticks":  6464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "青蒿"
+                     },
+                     {
+                         "time_ticks":  11264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "素"
+                     },
+                     {
+                         "time_ticks":  22664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "从"
+                     },
+                     {
+                         "time_ticks":  26014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "古籍"
+                     },
+                     {
+                         "time_ticks":  29714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中"
+                     },
+                     {
+                         "time_ticks":  32264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获"
+                     },
+                     {
+                         "time_ticks":  34414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "灵感"
+                     },
+                     {
+                         "time_ticks":  43414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "改用"
+                     },
+                     {
+                         "time_ticks":  48164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "低温"
+                     },
+                     {
+                         "time_ticks":  51914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "提取"
+                     },
+                     {
+                         "time_ticks":  60814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成功"
+                     },
+                     {
+                         "time_ticks":  65914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获得"
+                     },
+                     {
+                         "time_ticks":  70364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "青蒿"
+                     },
+                     {
+                         "time_ticks":  75214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "素"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

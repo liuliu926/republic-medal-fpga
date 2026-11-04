@@ -1,0 +1,104 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "建立体系。"
+                     },
+                     {
+                         "time_ticks":  17414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "建立我国核潜艇研制体系，形成自主设计制造能力。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "建立"
+                     },
+                     {
+                         "time_ticks":  4864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "体系"
+                     },
+                     {
+                         "time_ticks":  18414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "建立"
+                     },
+                     {
+                         "time_ticks":  23064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "我"
+                     },
+                     {
+                         "time_ticks":  25064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国"
+                     },
+                     {
+                         "time_ticks":  27664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "核潜艇"
+                     },
+                     {
+                         "time_ticks":  35364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "研制"
+                     },
+                     {
+                         "time_ticks":  39364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "体系"
+                     },
+                     {
+                         "time_ticks":  48264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "形成"
+                     },
+                     {
+                         "time_ticks":  54214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "自主"
+                     },
+                     {
+                         "time_ticks":  58114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "设计"
+                     },
+                     {
+                         "time_ticks":  62764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "制造"
+                     },
+                     {
+                         "time_ticks":  66814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "能力"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

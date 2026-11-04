@@ -1,0 +1,140 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零二零年，武汉逆行。"
+                     },
+                     {
+                         "time_ticks":  32814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "八十四岁高龄连夜赴汉，在餐车上闭目小憩的照片感动全国。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零二零"
+                     },
+                     {
+                         "time_ticks":  8664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "武汉"
+                     },
+                     {
+                         "time_ticks":  20164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "逆行"
+                     },
+                     {
+                         "time_ticks":  33814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "八十四"
+                     },
+                     {
+                         "time_ticks":  39414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "岁"
+                     },
+                     {
+                         "time_ticks":  41664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "高龄"
+                     },
+                     {
+                         "time_ticks":  46314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "连夜"
+                     },
+                     {
+                         "time_ticks":  50264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "赴"
+                     },
+                     {
+                         "time_ticks":  52264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "汉"
+                     },
+                     {
+                         "time_ticks":  59514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在"
+                     },
+                     {
+                         "time_ticks":  61614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "餐车"
+                     },
+                     {
+                         "time_ticks":  65964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "上"
+                     },
+                     {
+                         "time_ticks":  68714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "闭目"
+                     },
+                     {
+                         "time_ticks":  72314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "小憩"
+                     },
+                     {
+                         "time_ticks":  76564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  77764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "照片"
+                     },
+                     {
+                         "time_ticks":  83014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "感动"
+                     },
+                     {
+                         "time_ticks":  87514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "全国"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

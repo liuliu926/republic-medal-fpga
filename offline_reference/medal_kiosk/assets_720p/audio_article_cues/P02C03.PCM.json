@@ -1,0 +1,140 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "带领群众致富。"
+                     },
+                     {
+                         "time_ticks":  22314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "几十年如一日扎根西沟，带领群众治山治水、脱贫致富。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "带领"
+                     },
+                     {
+                         "time_ticks":  5914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "群众"
+                     },
+                     {
+                         "time_ticks":  10514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "致富"
+                     },
+                     {
+                         "time_ticks":  23314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "几"
+                     },
+                     {
+                         "time_ticks":  25414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "十"
+                     },
+                     {
+                         "time_ticks":  27314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  30464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "如"
+                     },
+                     {
+                         "time_ticks":  32214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一"
+                     },
+                     {
+                         "time_ticks":  33864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "日"
+                     },
+                     {
+                         "time_ticks":  36014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "扎根"
+                     },
+                     {
+                         "time_ticks":  40264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "西"
+                     },
+                     {
+                         "time_ticks":  42414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "沟"
+                     },
+                     {
+                         "time_ticks":  49164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "带领"
+                     },
+                     {
+                         "time_ticks":  53064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "群众"
+                     },
+                     {
+                         "time_ticks":  58264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "治"
+                     },
+                     {
+                         "time_ticks":  60314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "山"
+                     },
+                     {
+                         "time_ticks":  62664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "治水"
+                     },
+                     {
+                         "time_ticks":  71664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "脱贫"
+                     },
+                     {
+                         "time_ticks":  76164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "致富"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

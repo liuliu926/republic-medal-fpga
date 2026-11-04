@@ -1,0 +1,3 @@
+# Python 3.10+; only for local asset/test helpers, not required on the FPGA.
+Pillow>=9
+numpy>=1.24

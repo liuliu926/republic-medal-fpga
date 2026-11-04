@@ -1,0 +1,116 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战场立功。"
+                     },
+                     {
+                         "time_ticks":  17914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在解放战争与抗美援朝战争中英勇作战，多次荣立战功。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战场"
+                     },
+                     {
+                         "time_ticks":  5814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "立功"
+                     },
+                     {
+                         "time_ticks":  18914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在"
+                     },
+                     {
+                         "time_ticks":  21864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "解放"
+                     },
+                     {
+                         "time_ticks":  26064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战争"
+                     },
+                     {
+                         "time_ticks":  30714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "与"
+                     },
+                     {
+                         "time_ticks":  33214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "抗美援朝"
+                     },
+                     {
+                         "time_ticks":  41864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战争"
+                     },
+                     {
+                         "time_ticks":  46064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中"
+                     },
+                     {
+                         "time_ticks":  48564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "英勇"
+                     },
+                     {
+                         "time_ticks":  52664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "作战"
+                     },
+                     {
+                         "time_ticks":  61364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "多"
+                     },
+                     {
+                         "time_ticks":  63314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "次"
+                     },
+                     {
+                         "time_ticks":  66114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "荣立"
+                     },
+                     {
+                         "time_ticks":  70014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战功"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

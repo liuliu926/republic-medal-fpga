@@ -1,0 +1,140 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九七二年，青蒿一握。"
+                     },
+                     {
+                         "time_ticks":  33064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "受《肘后备急方》启发改用低温提取，青蒿素终获成功。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九七二"
+                     },
+                     {
+                         "time_ticks":  9064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "青蒿"
+                     },
+                     {
+                         "time_ticks":  21264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一"
+                     },
+                     {
+                         "time_ticks":  22814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "握"
+                     },
+                     {
+                         "time_ticks":  34064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "受"
+                     },
+                     {
+                         "time_ticks":  37264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "肘"
+                     },
+                     {
+                         "time_ticks":  39564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "后备"
+                     },
+                     {
+                         "time_ticks":  43514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "急"
+                     },
+                     {
+                         "time_ticks":  45414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "方"
+                     },
+                     {
+                         "time_ticks":  48114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "启发"
+                     },
+                     {
+                         "time_ticks":  52714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "改用"
+                     },
+                     {
+                         "time_ticks":  57314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "低温"
+                     },
+                     {
+                         "time_ticks":  61014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "提取"
+                     },
+                     {
+                         "time_ticks":  69914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "青蒿"
+                     },
+                     {
+                         "time_ticks":  75114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "素"
+                     },
+                     {
+                         "time_ticks":  77564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "终"
+                     },
+                     {
+                         "time_ticks":  80164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获"
+                     },
+                     {
+                         "time_ticks":  82364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成功"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

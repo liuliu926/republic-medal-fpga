@@ -1,0 +1,128 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "开创卫星事业。"
+                     },
+                     {
+                         "time_ticks":  22514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "主持研制我国多颗人造卫星，奠定中国卫星工程技术基础。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "开创"
+                     },
+                     {
+                         "time_ticks":  6314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "卫星"
+                     },
+                     {
+                         "time_ticks":  10464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "事业"
+                     },
+                     {
+                         "time_ticks":  23514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "主持"
+                     },
+                     {
+                         "time_ticks":  27314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "研制"
+                     },
+                     {
+                         "time_ticks":  31864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "我"
+                     },
+                     {
+                         "time_ticks":  33814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国"
+                     },
+                     {
+                         "time_ticks":  35764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "多"
+                     },
+                     {
+                         "time_ticks":  37714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "颗"
+                     },
+                     {
+                         "time_ticks":  40414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "人造"
+                     },
+                     {
+                         "time_ticks":  44714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "卫星"
+                     },
+                     {
+                         "time_ticks":  53764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "奠定"
+                     },
+                     {
+                         "time_ticks":  58464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中国"
+                     },
+                     {
+                         "time_ticks":  63114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "卫星"
+                     },
+                     {
+                         "time_ticks":  67364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "工程"
+                     },
+                     {
+                         "time_ticks":  72264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "技术"
+                     },
+                     {
+                         "time_ticks":  76314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "基础"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

@@ -1,0 +1,128 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九九零年，方案推广。"
+                     },
+                     {
+                         "time_ticks":  33814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "治疗方案在全国推广，患者五年生存率大幅提升。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九九零"
+                     },
+                     {
+                         "time_ticks":  8814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "方案"
+                     },
+                     {
+                         "time_ticks":  20914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推广"
+                     },
+                     {
+                         "time_ticks":  34814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "治疗"
+                     },
+                     {
+                         "time_ticks":  39164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "方案"
+                     },
+                     {
+                         "time_ticks":  44064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在"
+                     },
+                     {
+                         "time_ticks":  46664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "全国"
+                     },
+                     {
+                         "time_ticks":  51264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推广"
+                     },
+                     {
+                         "time_ticks":  60664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "患者"
+                     },
+                     {
+                         "time_ticks":  65614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "五"
+                     },
+                     {
+                         "time_ticks":  67664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  70514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "生存"
+                     },
+                     {
+                         "time_ticks":  75364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "率"
+                     },
+                     {
+                         "time_ticks":  77714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "大"
+                     },
+                     {
+                         "time_ticks":  79914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "幅"
+                     },
+                     {
+                         "time_ticks":  81864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "提升"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

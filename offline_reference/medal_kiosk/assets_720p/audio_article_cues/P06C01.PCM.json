@@ -1,0 +1,140 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "开创杂交水稻。"
+                     },
+                     {
+                         "time_ticks":  23464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "突破自花授粉作物无杂交优势的理论禁区，开创杂交水稻技术路线。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "开创"
+                     },
+                     {
+                         "time_ticks":  6414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "杂交"
+                     },
+                     {
+                         "time_ticks":  10964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "水稻"
+                     },
+                     {
+                         "time_ticks":  24464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "突破"
+                     },
+                     {
+                         "time_ticks":  29214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "自"
+                     },
+                     {
+                         "time_ticks":  31164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "花"
+                     },
+                     {
+                         "time_ticks":  33814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "授粉"
+                     },
+                     {
+                         "time_ticks":  38364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "作物"
+                     },
+                     {
+                         "time_ticks":  42264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "无"
+                     },
+                     {
+                         "time_ticks":  44264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "杂交"
+                     },
+                     {
+                         "time_ticks":  48964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "优势"
+                     },
+                     {
+                         "time_ticks":  52914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  54814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "理论"
+                     },
+                     {
+                         "time_ticks":  58664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "禁区"
+                     },
+                     {
+                         "time_ticks":  67964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "开创"
+                     },
+                     {
+                         "time_ticks":  73064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "杂交"
+                     },
+                     {
+                         "time_ticks":  77564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "水稻"
+                     },
+                     {
+                         "time_ticks":  82214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "技术"
+                     },
+                     {
+                         "time_ticks":  86214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "路线"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

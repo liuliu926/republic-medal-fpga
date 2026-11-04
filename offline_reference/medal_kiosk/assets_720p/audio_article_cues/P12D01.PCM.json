@@ -1,0 +1,158 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九七九年，小偃六号。"
+                     },
+                     {
+                         "time_ticks":  33714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "“小偃六号”等品种大面积推广，成为北方麦区主栽品种。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九七九"
+                     },
+                     {
+                         "time_ticks":  9114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "小"
+                     },
+                     {
+                         "time_ticks":  19314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "偃"
+                     },
+                     {
+                         "time_ticks":  21164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "六"
+                     },
+                     {
+                         "time_ticks":  23214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "号"
+                     },
+                     {
+                         "time_ticks":  34714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "小"
+                     },
+                     {
+                         "time_ticks":  37464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "偃"
+                     },
+                     {
+                         "time_ticks":  39314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "六"
+                     },
+                     {
+                         "time_ticks":  41314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "号"
+                     },
+                     {
+                         "time_ticks":  44014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "等"
+                     },
+                     {
+                         "time_ticks":  46264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "品种"
+                     },
+                     {
+                         "time_ticks":  51514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "大"
+                     },
+                     {
+                         "time_ticks":  53664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "面积"
+                     },
+                     {
+                         "time_ticks":  58164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "推广"
+                     },
+                     {
+                         "time_ticks":  67814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成为"
+                     },
+                     {
+                         "time_ticks":  72664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "北方"
+                     },
+                     {
+                         "time_ticks":  76864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "麦"
+                     },
+                     {
+                         "time_ticks":  78764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "区"
+                     },
+                     {
+                         "time_ticks":  81464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "主"
+                     },
+                     {
+                         "time_ticks":  83564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "栽"
+                     },
+                     {
+                         "time_ticks":  85514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "品种"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

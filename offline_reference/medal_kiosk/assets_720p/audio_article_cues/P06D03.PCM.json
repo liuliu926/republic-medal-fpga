@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零二零年，海水稻。"
+                     },
+                     {
+                         "time_ticks":  31214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "耐盐碱水稻试种成功，为亿亩盐碱地带来丰收希望。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零二零"
+                     },
+                     {
+                         "time_ticks":  8664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "海"
+                     },
+                     {
+                         "time_ticks":  18764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "水稻"
+                     },
+                     {
+                         "time_ticks":  32214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "耐"
+                     },
+                     {
+                         "time_ticks":  35164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "盐碱"
+                     },
+                     {
+                         "time_ticks":  39464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "水稻"
+                     },
+                     {
+                         "time_ticks":  44114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "试种"
+                     },
+                     {
+                         "time_ticks":  48464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成功"
+                     },
+                     {
+                         "time_ticks":  57914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "为"
+                     },
+                     {
+                         "time_ticks":  60064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "亿"
+                     },
+                     {
+                         "time_ticks":  61614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "亩"
+                     },
+                     {
+                         "time_ticks":  63314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "盐碱地"
+                     },
+                     {
+                         "time_ticks":  69964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "带来"
+                     },
+                     {
+                         "time_ticks":  74664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "丰收"
+                     },
+                     {
+                         "time_ticks":  79114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "希望"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

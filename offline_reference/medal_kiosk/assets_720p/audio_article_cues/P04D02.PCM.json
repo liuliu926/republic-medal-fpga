@@ -1,0 +1,128 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九五一年，特等功臣。"
+                     },
+                     {
+                         "time_ticks":  32514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "因战功卓著被记特等功，获“一级英雄”荣誉称号。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九五一"
+                     },
+                     {
+                         "time_ticks":  8164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  15514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "特等"
+                     },
+                     {
+                         "time_ticks":  19564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "功臣"
+                     },
+                     {
+                         "time_ticks":  33514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "因"
+                     },
+                     {
+                         "time_ticks":  36564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战功"
+                     },
+                     {
+                         "time_ticks":  40914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "卓著"
+                     },
+                     {
+                         "time_ticks":  45064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "被"
+                     },
+                     {
+                         "time_ticks":  47414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "记"
+                     },
+                     {
+                         "time_ticks":  49214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "特"
+                     },
+                     {
+                         "time_ticks":  51164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "等"
+                     },
+                     {
+                         "time_ticks":  53164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "功"
+                     },
+                     {
+                         "time_ticks":  60164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获"
+                     },
+                     {
+                         "time_ticks":  63064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一级"
+                     },
+                     {
+                         "time_ticks":  66664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "英雄"
+                     },
+                     {
+                         "time_ticks":  71814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "荣誉"
+                     },
+                     {
+                         "time_ticks":  75664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "称号"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

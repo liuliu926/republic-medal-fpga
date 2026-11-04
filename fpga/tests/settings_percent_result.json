@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "scope": "Actual two-stage popup and audio RTL vs preserved combinational renderer/math; independent golden legacy tests; reset/continuous and sparse audio; full popup coordinate sweep over all 11 steps in both languages; randomized RGB/DE/VS/fade/selection/coefficients.",
+  "legacy": {
+    "status": "passed",
+    "scope": "Actual settings_percent_control/audio_volume_percent/brightness_popup_720p RTL. Control key pulses, boundaries/persistence; 1529 signed audio vectors; 2816 RGB triplets; continuous fill heights; actual centred digit pixels and bilingual labels. No hardware operations.",
+    "compile_returncode": 0,
+    "fresh_vvp": true,
+    "compiler_shutdown_av": false,
+    "simulation_returncode": 0,
+    "assertions": 9747,
+    "navigation_check": "Actual top-level static wiring: popup gates all four navigation inputs only while brightness_open; closed-controller pulses do not change retained values. Full system runtime navigation remains a hardware regression item.",
+    "preview": "settings_percent_rtl_preview.png",
+    "source_sha256": "dc8758904e0d79412a1d786ed19a680e9a5fe149c2a1c73dc11312b5ad6b8a06",
+    "elapsed_seconds": 8.99
+  },
+  "compile_returncode": 3221225477,
+  "compiler_shutdown_av": true,
+  "fresh_vvp": true,
+  "simulation_returncode": 0,
+  "pipeline_assertions": 3807973,
+  "pixels_compared": 950432,
+  "valid_audio_samples_compared": 6239,
+  "cycles": 950435,
+  "pixel_latency": "two capture stages: input sampled edge N appears after edge N+1; RGB/OSD/DE/VS/fade align",
+  "audio_latency": "two capture stages: valid/sample captured edge N appear after edge N+1; invalid output data ignored",
+  "preview": "settings_percent_pipeline_preview.png",
+  "source_sha256": "dc8758904e0d79412a1d786ed19a680e9a5fe149c2a1c73dc11312b5ad6b8a06",
+  "elapsed_seconds": 80.958
+}

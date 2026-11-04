@@ -1,0 +1,110 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "技术攻坚。"
+                     },
+                     {
+                         "time_ticks":  17814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "突破艇型设计、水下发射等多项关键核心技术。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "技术"
+                     },
+                     {
+                         "time_ticks":  5114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "攻坚"
+                     },
+                     {
+                         "time_ticks":  18814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "突破"
+                     },
+                     {
+                         "time_ticks":  23564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "艇"
+                     },
+                     {
+                         "time_ticks":  26064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "型"
+                     },
+                     {
+                         "time_ticks":  28364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "设计"
+                     },
+                     {
+                         "time_ticks":  37064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "水下"
+                     },
+                     {
+                         "time_ticks":  41764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "发射"
+                     },
+                     {
+                         "time_ticks":  46264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "等"
+                     },
+                     {
+                         "time_ticks":  48564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "多"
+                     },
+                     {
+                         "time_ticks":  50364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "项"
+                     },
+                     {
+                         "time_ticks":  52714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "关键"
+                     },
+                     {
+                         "time_ticks":  57414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "核心"
+                     },
+                     {
+                         "time_ticks":  61964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "技术"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

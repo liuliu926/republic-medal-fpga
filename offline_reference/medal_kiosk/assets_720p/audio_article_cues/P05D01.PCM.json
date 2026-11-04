@@ -1,0 +1,116 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九四八年，永丰战役。"
+                     },
+                     {
+                         "time_ticks":  32614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "担任突击队员，冲锋在前，英勇负伤仍坚持战斗。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九四八"
+                     },
+                     {
+                         "time_ticks":  8914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "永丰"
+                     },
+                     {
+                         "time_ticks":  20614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战役"
+                     },
+                     {
+                         "time_ticks":  33614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "担任"
+                     },
+                     {
+                         "time_ticks":  38164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "突击队"
+                     },
+                     {
+                         "time_ticks":  43964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "员"
+                     },
+                     {
+                         "time_ticks":  51064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "冲锋"
+                     },
+                     {
+                         "time_ticks":  55614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在"
+                     },
+                     {
+                         "time_ticks":  57764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "前"
+                     },
+                     {
+                         "time_ticks":  65364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "英勇"
+                     },
+                     {
+                         "time_ticks":  69464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "负伤"
+                     },
+                     {
+                         "time_ticks":  74064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "仍"
+                     },
+                     {
+                         "time_ticks":  76664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "坚持"
+                     },
+                     {
+                         "time_ticks":  80814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战斗"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

@@ -1,0 +1,2 @@
+PASS SETTINGS_PERCENT assertions=9747
+C:\Users\20251\Documents\ChatGPT\FPGA\output\submission_code_20261104\FPGA_Medal_Final_Source_20261104\fpga\tests\tb_settings_percent.sv:126: $finish called at 462656000 (1ps)

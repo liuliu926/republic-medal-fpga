@@ -1,0 +1,116 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "军人本色。"
+                     },
+                     {
+                         "time_ticks":  17364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "始终保持革命军人作风，是人民军队忠诚战士的杰出代表。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "军人"
+                     },
+                     {
+                         "time_ticks":  5164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "本色"
+                     },
+                     {
+                         "time_ticks":  18364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "始终"
+                     },
+                     {
+                         "time_ticks":  23114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "保持"
+                     },
+                     {
+                         "time_ticks":  28014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "革命"
+                     },
+                     {
+                         "time_ticks":  32764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "军人"
+                     },
+                     {
+                         "time_ticks":  36914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "作风"
+                     },
+                     {
+                         "time_ticks":  45764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "是"
+                     },
+                     {
+                         "time_ticks":  48364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "人民"
+                     },
+                     {
+                         "time_ticks":  52764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "军队"
+                     },
+                     {
+                         "time_ticks":  57214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "忠诚"
+                     },
+                     {
+                         "time_ticks":  61914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战士"
+                     },
+                     {
+                         "time_ticks":  65714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  67664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "杰出"
+                     },
+                     {
+                         "time_ticks":  71764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "代表"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

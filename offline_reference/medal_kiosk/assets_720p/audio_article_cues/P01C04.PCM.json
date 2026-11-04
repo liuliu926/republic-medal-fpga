@@ -1,0 +1,134 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "培育科研队伍。"
+                     },
+                     {
+                         "time_ticks":  21664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "带出一批核物理研究骨干，形成我国自主的核理论研究力量。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "培育"
+                     },
+                     {
+                         "time_ticks":  5714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "科研"
+                     },
+                     {
+                         "time_ticks":  10114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "队伍"
+                     },
+                     {
+                         "time_ticks":  22664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "带"
+                     },
+                     {
+                         "time_ticks":  24714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "出"
+                     },
+                     {
+                         "time_ticks":  27464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一批"
+                     },
+                     {
+                         "time_ticks":  31164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "核物理"
+                     },
+                     {
+                         "time_ticks":  37064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "研究"
+                     },
+                     {
+                         "time_ticks":  41514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "骨干"
+                     },
+                     {
+                         "time_ticks":  50064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "形成"
+                     },
+                     {
+                         "time_ticks":  55864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "我"
+                     },
+                     {
+                         "time_ticks":  57764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国"
+                     },
+                     {
+                         "time_ticks":  59714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "自主"
+                     },
+                     {
+                         "time_ticks":  63314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  65364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "核"
+                     },
+                     {
+                         "time_ticks":  67714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "理论"
+                     },
+                     {
+                         "time_ticks":  71714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "研究"
+                     },
+                     {
+                         "time_ticks":  76064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "力量"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

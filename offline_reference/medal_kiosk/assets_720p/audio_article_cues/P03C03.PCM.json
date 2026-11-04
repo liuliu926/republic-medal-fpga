@@ -1,0 +1,146 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "构建北斗系统。"
+                     },
+                     {
+                         "time_ticks":  22014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "担任北斗导航第一代、第二代工程总设计师，建成中国自主导航体系。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "构建"
+                     },
+                     {
+                         "time_ticks":  5714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "北斗"
+                     },
+                     {
+                         "time_ticks":  9264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "系统"
+                     },
+                     {
+                         "time_ticks":  23014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "担任"
+                     },
+                     {
+                         "time_ticks":  27014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "北斗"
+                     },
+                     {
+                         "time_ticks":  30964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "导航"
+                     },
+                     {
+                         "time_ticks":  35714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "第一"
+                     },
+                     {
+                         "time_ticks":  38814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "代"
+                     },
+                     {
+                         "time_ticks":  45514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "第二"
+                     },
+                     {
+                         "time_ticks":  49064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "代"
+                     },
+                     {
+                         "time_ticks":  50864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "工程"
+                     },
+                     {
+                         "time_ticks":  55964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "总"
+                     },
+                     {
+                         "time_ticks":  58214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "设计"
+                     },
+                     {
+                         "time_ticks":  62114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "师"
+                     },
+                     {
+                         "time_ticks":  69314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "建"
+                     },
+                     {
+                         "time_ticks":  71664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成"
+                     },
+                     {
+                         "time_ticks":  74614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "中国"
+                     },
+                     {
+                         "time_ticks":  78514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "自主"
+                     },
+                     {
+                         "time_ticks":  82614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "导航"
+                     },
+                     {
+                         "time_ticks":  87464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "体系"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

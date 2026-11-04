@@ -1,0 +1,122 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "攻克白血病。"
+                     },
+                     {
+                         "time_ticks":  20464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "使最凶险的急性早幼粒细胞白血病成为可治愈疾病。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "攻克"
+                     },
+                     {
+                         "time_ticks":  5814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "白血病"
+                     },
+                     {
+                         "time_ticks":  21464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "使"
+                     },
+                     {
+                         "time_ticks":  24664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "最"
+                     },
+                     {
+                         "time_ticks":  27014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "凶险"
+                     },
+                     {
+                         "time_ticks":  31364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  32614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "急性"
+                     },
+                     {
+                         "time_ticks":  37414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "早"
+                     },
+                     {
+                         "time_ticks":  39664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "幼"
+                     },
+                     {
+                         "time_ticks":  41514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "粒"
+                     },
+                     {
+                         "time_ticks":  42964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "细胞"
+                     },
+                     {
+                         "time_ticks":  47564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "白血病"
+                     },
+                     {
+                         "time_ticks":  54314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成为"
+                     },
+                     {
+                         "time_ticks":  59414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "可"
+                     },
+                     {
+                         "time_ticks":  62514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "治愈"
+                     },
+                     {
+                         "time_ticks":  66114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "疾病"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

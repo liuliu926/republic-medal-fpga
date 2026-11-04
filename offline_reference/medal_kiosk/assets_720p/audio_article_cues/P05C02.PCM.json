@@ -1,0 +1,128 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "深藏功名。"
+                     },
+                     {
+                         "time_ticks":  18914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "转业后六十余年从不提起战功，连家人也不知详情。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "深"
+                     },
+                     {
+                         "time_ticks":  3714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "藏"
+                     },
+                     {
+                         "time_ticks":  6214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "功名"
+                     },
+                     {
+                         "time_ticks":  19914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "转业"
+                     },
+                     {
+                         "time_ticks":  23864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "后"
+                     },
+                     {
+                         "time_ticks":  26664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "六十"
+                     },
+                     {
+                         "time_ticks":  30464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "余"
+                     },
+                     {
+                         "time_ticks":  32114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  35114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "从不"
+                     },
+                     {
+                         "time_ticks":  39964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "提起"
+                     },
+                     {
+                         "time_ticks":  44114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "战功"
+                     },
+                     {
+                         "time_ticks":  53514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "连"
+                     },
+                     {
+                         "time_ticks":  56314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "家人"
+                     },
+                     {
+                         "time_ticks":  60864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "也"
+                     },
+                     {
+                         "time_ticks":  62814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "不"
+                     },
+                     {
+                         "time_ticks":  64664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "知"
+                     },
+                     {
+                         "time_ticks":  66314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "详情"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

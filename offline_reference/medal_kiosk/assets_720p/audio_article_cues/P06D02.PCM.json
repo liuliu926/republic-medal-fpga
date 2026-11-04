@@ -1,0 +1,116 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九九六年，超级稻攻关。"
+                     },
+                     {
+                         "time_ticks":  35414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "主持超级杂交稻育种计划，亩产纪录不断刷新。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九九六"
+                     },
+                     {
+                         "time_ticks":  8914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "超级"
+                     },
+                     {
+                         "time_ticks":  20814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "稻"
+                     },
+                     {
+                         "time_ticks":  22764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "攻关"
+                     },
+                     {
+                         "time_ticks":  36414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "主持"
+                     },
+                     {
+                         "time_ticks":  41414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "超级"
+                     },
+                     {
+                         "time_ticks":  46614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "杂交"
+                     },
+                     {
+                         "time_ticks":  51264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "稻"
+                     },
+                     {
+                         "time_ticks":  53564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "育种"
+                     },
+                     {
+                         "time_ticks":  57564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "计划"
+                     },
+                     {
+                         "time_ticks":  66364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "亩产"
+                     },
+                     {
+                         "time_ticks":  70764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "纪录"
+                     },
+                     {
+                         "time_ticks":  74714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "不断"
+                     },
+                     {
+                         "time_ticks":  78714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "刷新"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

@@ -1,0 +1,98 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "突破关键技术。"
+                     },
+                     {
+                         "time_ticks":  22264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "解决火箭捆绑、逃逸救生等重大技术难题。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "突破"
+                     },
+                     {
+                         "time_ticks":  5664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "关键"
+                     },
+                     {
+                         "time_ticks":  10164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "技术"
+                     },
+                     {
+                         "time_ticks":  23264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "解决"
+                     },
+                     {
+                         "time_ticks":  28314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "火箭"
+                     },
+                     {
+                         "time_ticks":  32714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "捆绑"
+                     },
+                     {
+                         "time_ticks":  41964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "逃逸"
+                     },
+                     {
+                         "time_ticks":  45764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "救生"
+                     },
+                     {
+                         "time_ticks":  50564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "等"
+                     },
+                     {
+                         "time_ticks":  53164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "重大"
+                     },
+                     {
+                         "time_ticks":  57264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "技术"
+                     },
+                     {
+                         "time_ticks":  61014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "难题"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

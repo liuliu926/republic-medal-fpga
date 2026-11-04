@@ -1,0 +1,158 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九八六年，首例治愈。"
+                     },
+                     {
+                         "time_ticks":  31914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "应用全反式维甲酸，成功救治首例急性早幼粒细胞白血病患者。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九八六"
+                     },
+                     {
+                         "time_ticks":  8814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "首"
+                     },
+                     {
+                         "time_ticks":  18814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "例"
+                     },
+                     {
+                         "time_ticks":  20264375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "治愈"
+                     },
+                     {
+                         "time_ticks":  32914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "应用"
+                     },
+                     {
+                         "time_ticks":  37114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "全"
+                     },
+                     {
+                         "time_ticks":  40214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "反"
+                     },
+                     {
+                         "time_ticks":  42514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "式"
+                     },
+                     {
+                         "time_ticks":  44414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "维"
+                     },
+                     {
+                         "time_ticks":  46364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "甲酸"
+                     },
+                     {
+                         "time_ticks":  56064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "成功"
+                     },
+                     {
+                         "time_ticks":  60664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "救治"
+                     },
+                     {
+                         "time_ticks":  64564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "首"
+                     },
+                     {
+                         "time_ticks":  67064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "例"
+                     },
+                     {
+                         "time_ticks":  68614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "急性"
+                     },
+                     {
+                         "time_ticks":  73414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "早"
+                     },
+                     {
+                         "time_ticks":  75664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "幼"
+                     },
+                     {
+                         "time_ticks":  77414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "粒"
+                     },
+                     {
+                         "time_ticks":  78864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "细胞"
+                     },
+                     {
+                         "time_ticks":  83464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "白血病"
+                     },
+                     {
+                         "time_ticks":  89814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "患者"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

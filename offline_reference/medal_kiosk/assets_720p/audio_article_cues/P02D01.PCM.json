@@ -1,0 +1,140 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九五二年，一场劳动竞赛。"
+                     },
+                     {
+                         "time_ticks":  37864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "组织妇女下地劳动，用实际工分证明“女人也能顶半边天”。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九五二"
+                     },
+                     {
+                         "time_ticks":  8564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一"
+                     },
+                     {
+                         "time_ticks":  17914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "场"
+                     },
+                     {
+                         "time_ticks":  21014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "劳动"
+                     },
+                     {
+                         "time_ticks":  25364375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "竞赛"
+                     },
+                     {
+                         "time_ticks":  38864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "组织"
+                     },
+                     {
+                         "time_ticks":  42914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "妇女"
+                     },
+                     {
+                         "time_ticks":  47164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "下地"
+                     },
+                     {
+                         "time_ticks":  51314375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "劳动"
+                     },
+                     {
+                         "time_ticks":  59814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "用"
+                     },
+                     {
+                         "time_ticks":  61914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "实际"
+                     },
+                     {
+                         "time_ticks":  66464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "工分"
+                     },
+                     {
+                         "time_ticks":  70714375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "证明"
+                     },
+                     {
+                         "time_ticks":  75614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "女人"
+                     },
+                     {
+                         "time_ticks":  80064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "也"
+                     },
+                     {
+                         "time_ticks":  81964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "能"
+                     },
+                     {
+                         "time_ticks":  84614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "顶"
+                     },
+                     {
+                         "time_ticks":  87064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "半边天"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

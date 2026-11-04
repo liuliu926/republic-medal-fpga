@@ -1,0 +1,128 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九六一年，临危受命。"
+                     },
+                     {
+                         "time_ticks":  32764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在国力薄弱、技术封锁的条件下，毅然接受氢弹理论预研任务。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "一九六一"
+                     },
+                     {
+                         "time_ticks":  8564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  15914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "临危受命"
+                     },
+                     {
+                         "time_ticks":  33764375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "在"
+                     },
+                     {
+                         "time_ticks":  36164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国力"
+                     },
+                     {
+                         "time_ticks":  40414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "薄弱"
+                     },
+                     {
+                         "time_ticks":  49564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "技术"
+                     },
+                     {
+                         "time_ticks":  53464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "封锁"
+                     },
+                     {
+                         "time_ticks":  57564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "的"
+                     },
+                     {
+                         "time_ticks":  58864375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "条件"
+                     },
+                     {
+                         "time_ticks":  63464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "下"
+                     },
+                     {
+                         "time_ticks":  70514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "毅然"
+                     },
+                     {
+                         "time_ticks":  74564375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "接受"
+                     },
+                     {
+                         "time_ticks":  79514375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "氢弹"
+                     },
+                     {
+                         "time_ticks":  84214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "理论"
+                     },
+                     {
+                         "time_ticks":  88164375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "预研"
+                     },
+                     {
+                         "time_ticks":  92114375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "任务"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]

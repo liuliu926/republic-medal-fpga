@@ -1,0 +1,33 @@
+{
+  "name": "Yumin",
+  "sections": [
+    {
+      "title": "Biography",
+      "pages": [
+        ["Yumin was born in 1926", "A renowned Chinese nuclear physicist", "His early work focused on nuclear theory"],
+        ["Turned to hydrogen-bomb theory in 1961", "Worked in secrecy on national defense research", "Died in 2019"]
+      ]
+    },
+    {
+      "title": "Major Contributions",
+      "pages": [
+        ["Among the first to study nuclear theory in China", "Filled gaps in China's theoretical research", "Made key contributions to the hydrogen-bomb breakthrough"],
+        ["Developed a concept from principle to configuration", "Led his team in solving fundamental problems", "Awarded the Medal of the Republic"]
+      ]
+    },
+    {
+      "title": "Notable Stories",
+      "pages": [
+        ["Led his team to Shanghai in 1965", "Took part in a 100-day effort on hydrogen-bomb theory", "Searched for a feasible technical solution"],
+        ["June 17, 1967", "China's first hydrogen-bomb test succeeded", "A collective achievement by many researchers"]
+      ]
+    }
+  ],
+  "quiz": {
+    "question": ["In what year did China's first hydrogen-bomb test", "succeed?"],
+    "choices": ["A. 1967", "B. 1978"],
+    "correct_index": 0,
+    "feedback_correct": "Correct!",
+    "feedback_retry": "Try again"
+  }
+}

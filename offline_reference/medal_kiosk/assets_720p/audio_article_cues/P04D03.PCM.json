@@ -1,0 +1,116 @@
+﻿[
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  14375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零一九年，国家礼遇。"
+                     },
+                     {
+                         "time_ticks":  31914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获授共和国勋章，代表无数志愿军将士接受国家致敬。"
+                     }
+                 ],
+        "id":  "SpeechSentence",
+        "kind":  "Speech"
+    },
+    {
+        "cues":  [
+                     {
+                         "time_ticks":  1014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "二零一九"
+                     },
+                     {
+                         "time_ticks":  8614375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "年"
+                     },
+                     {
+                         "time_ticks":  16064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国家"
+                     },
+                     {
+                         "time_ticks":  20214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "礼遇"
+                     },
+                     {
+                         "time_ticks":  32914375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "获"
+                     },
+                     {
+                         "time_ticks":  35214375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "授"
+                     },
+                     {
+                         "time_ticks":  37964375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "共和国"
+                     },
+                     {
+                         "time_ticks":  44064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "勋章"
+                     },
+                     {
+                         "time_ticks":  53464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "代表"
+                     },
+                     {
+                         "time_ticks":  58064375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "无数"
+                     },
+                     {
+                         "time_ticks":  62664375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "志愿军"
+                     },
+                     {
+                         "time_ticks":  69014375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "将士"
+                     },
+                     {
+                         "time_ticks":  73814375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "接受"
+                     },
+                     {
+                         "time_ticks":  78414375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "国家"
+                     },
+                     {
+                         "time_ticks":  82464375,
+                         "properties":  null,
+                         "duration_ticks":  0,
+                         "text":  "致敬"
+                     }
+                 ],
+        "id":  "SpeechWord",
+        "kind":  "Speech"
+    }
+]
